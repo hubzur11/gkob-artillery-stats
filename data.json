@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T19:25:57.905Z",
+  "lastUpdated": "2026-08-24T19:32:07.313Z",
   "dailyDate": "2026-08-24",
   "monthlyDate": "2026-08",
   "daily": {
@@ -204,169 +204,241 @@
     {
       "id": 508521475,
       "name": "miki205",
-      "role_i18n": "reservist",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Rezerwista",
+      "battles": 1652,
+      "winrate": 47.94188861985472,
+      "avgDmg": 605,
+      "topSpg": {
+        "name": "M44",
+        "tier": 6,
+        "battles": 572
+      }
     },
     {
       "id": 510038020,
       "name": "Gicek03",
-      "role_i18n": "reservist",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Rezerwista",
+      "battles": 1617,
+      "winrate": 52.195423623995055,
+      "avgDmg": 1142,
+      "topSpg": {
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 335
+      }
     },
     {
       "id": 518289414,
       "name": "Wredziol___",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 1652,
+      "winrate": 51.51331719128329,
+      "avgDmg": 1645,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 412
+      }
     },
     {
       "id": 501964300,
       "name": "seba0924",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 5488,
+      "winrate": 51.7128279883382,
+      "avgDmg": 1324,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 966
+      }
     },
     {
       "id": 505734672,
       "name": "Goolus",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 2596,
+      "winrate": 52.3497688751926,
+      "avgDmg": 1247,
+      "topSpg": {
+        "name": "Obj. 261",
+        "tier": 10,
+        "battles": 304
+      }
     },
     {
       "id": 714161174,
       "name": "Zakolini9kPrykPL4YeR",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 7,
+      "winrate": 57.14285714285714,
+      "avgDmg": 848,
+      "topSpg": {
+        "name": "SU-14-1",
+        "tier": 7,
+        "battles": 7
+      }
     },
     {
       "id": 503288344,
       "name": "_piotr_2000_",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 850,
+      "winrate": 49.411764705882355,
+      "avgDmg": 876,
+      "topSpg": {
+        "name": "SU-14-1",
+        "tier": 7,
+        "battles": 152
+      }
     },
     {
       "id": 583059489,
       "name": "insallahSIUU",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 227,
+      "winrate": 43.17180616740088,
+      "avgDmg": 780,
+      "topSpg": {
+        "name": "M12",
+        "tier": 7,
+        "battles": 64
+      }
     },
     {
       "id": 542241836,
       "name": "wombat__maly",
       "role_i18n": "Oficer bojowy",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 1497,
+      "winrate": 47.62859051436206,
+      "avgDmg": 803,
+      "topSpg": {
+        "name": "Bishop",
+        "tier": 5,
+        "battles": 199
+      }
     },
     {
       "id": 676232541,
       "name": "GiGiEdg3",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 131,
+      "winrate": 47.32824427480916,
+      "avgDmg": 951,
+      "topSpg": {
+        "name": "FV207",
+        "tier": 8,
+        "battles": 107
+      }
     },
     {
       "id": 512665137,
       "name": "marek98765432",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 3717,
+      "winrate": 52.35404896421846,
+      "avgDmg": 1087,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 647
+      }
     },
     {
       "id": 507931190,
       "name": "youri1981",
-      "role_i18n": "reservist",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Rezerwista",
+      "battles": 5143,
+      "winrate": 54.83181022749368,
+      "avgDmg": 1554,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 630
+      }
     },
     {
       "id": 500508215,
       "name": "Kachel123",
-      "role_i18n": "reservist",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Rezerwista",
+      "battles": 8327,
+      "winrate": 50.7025339257836,
+      "avgDmg": 1429,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 1352
+      }
     },
     {
       "id": 502176825,
       "name": "masztallo",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 1133,
+      "winrate": 49.249779346866724,
+      "avgDmg": 788,
+      "topSpg": {
+        "name": "G.W. Panther",
+        "tier": 7,
+        "battles": 408
+      }
     },
     {
       "id": 505285183,
       "name": "green_warriorr",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 1149,
+      "winrate": 48.56396866840731,
+      "avgDmg": 1057,
+      "topSpg": {
+        "name": "G.W. Tiger",
+        "tier": 9,
+        "battles": 213
+      }
     },
     {
       "id": 525520969,
       "name": "___BANDZIOR___",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 1013,
+      "winrate": 48.27245804540967,
+      "avgDmg": 1025,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 307
+      }
     },
     {
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 21563,
+      "winrate": 51.67648286416547,
+      "avgDmg": 1215,
+      "topSpg": {
+        "name": "FV3805",
+        "tier": 9,
+        "battles": 5639
+      }
     },
     {
       "id": 570532446,
       "name": "Levvi_The_White_Fox",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 195,
+      "winrate": 55.8974358974359,
+      "avgDmg": 781,
+      "topSpg": {
+        "name": "S-51",
+        "tier": 7,
+        "battles": 54
+      }
     },
     {
       "id": 717922935,
       "name": "SMERFETKA",
-      "role_i18n": "reservist",
+      "role_i18n": "Rezerwista",
       "battles": 0,
       "winrate": 0,
       "avgDmg": 0,
@@ -376,361 +448,521 @@
       "id": 509343868,
       "name": "hubzur11",
       "role_i18n": "Zastępca dowódcy",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 3737,
+      "winrate": 53.090714476853094,
+      "avgDmg": 929,
+      "topSpg": {
+        "name": "leFH18B2",
+        "tier": 5,
+        "battles": 807
+      }
     },
     {
       "id": 513029254,
       "name": "playtowin320",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 2435,
+      "winrate": 50.26694045174538,
+      "avgDmg": 831,
+      "topSpg": {
+        "name": "G.W. Panther",
+        "tier": 7,
+        "battles": 549
+      }
     },
     {
       "id": 502664328,
       "name": "zajaczeks",
       "role_i18n": "Zastępca dowódcy",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 2637,
+      "winrate": 50.96700796359499,
+      "avgDmg": 900,
+      "topSpg": {
+        "name": "G.W. Tiger",
+        "tier": 9,
+        "battles": 411
+      }
     },
     {
       "id": 580970642,
       "name": "PABLITTO_pk",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 269,
+      "winrate": 47.58364312267658,
+      "avgDmg": 826,
+      "topSpg": {
+        "name": "S-51",
+        "tier": 7,
+        "battles": 112
+      }
     },
     {
       "id": 530651811,
       "name": "Ukradne_Ci_Strych_BRO",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 1286,
+      "winrate": 52.41057542768274,
+      "avgDmg": 1050,
+      "topSpg": {
+        "name": "Obj. 261",
+        "tier": 10,
+        "battles": 164
+      }
     },
     {
       "id": 505419948,
       "name": "Pistolet1",
       "role_i18n": "Młodszy oficer",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 840,
+      "winrate": 47.85714285714286,
+      "avgDmg": 831,
+      "topSpg": {
+        "name": "AMX 13 F3",
+        "tier": 6,
+        "battles": 370
+      }
     },
     {
       "id": 573225140,
       "name": "Misiek17_2020",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 410,
+      "winrate": 53.41463414634147,
+      "avgDmg": 505,
+      "topSpg": {
+        "name": "M12",
+        "tier": 7,
+        "battles": 123
+      }
     },
     {
       "id": 509401781,
       "name": "DzikiSzynszyl",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 1169,
+      "winrate": 51.15483319076134,
+      "avgDmg": 770,
+      "topSpg": {
+        "name": "M12",
+        "tier": 7,
+        "battles": 322
+      }
     },
     {
       "id": 566402742,
       "name": "Havieron",
-      "role_i18n": "reservist",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Rezerwista",
+      "battles": 228,
+      "winrate": 46.05263157894737,
+      "avgDmg": 875,
+      "topSpg": {
+        "name": "M12",
+        "tier": 7,
+        "battles": 61
+      }
     },
     {
       "id": 543904952,
       "name": "G3N3R0X",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 1614,
+      "winrate": 49.380421313506815,
+      "avgDmg": 1198,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 402
+      }
     },
     {
       "id": 569194682,
       "name": "kubas_321",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 388,
+      "winrate": 48.45360824742268,
+      "avgDmg": 857,
+      "topSpg": {
+        "name": "212A",
+        "tier": 9,
+        "battles": 93
+      }
     },
     {
       "id": 506685964,
       "name": "patijass",
       "role_i18n": "Oficer bojowy",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 3146,
+      "winrate": 47.64780673871583,
+      "avgDmg": 744,
+      "topSpg": {
+        "name": "Obj. 261",
+        "tier": 10,
+        "battles": 294
+      }
     },
     {
       "id": 574454983,
       "name": "_FREDEK___",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 560,
+      "winrate": 51.24999999999999,
+      "avgDmg": 961,
+      "topSpg": {
+        "name": "M40/M43",
+        "tier": 8,
+        "battles": 118
+      }
     },
     {
       "id": 519015115,
       "name": "EnDi_CoronaSwirus",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 1739,
+      "winrate": 49.971247843588266,
+      "avgDmg": 935,
+      "topSpg": {
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 312
+      }
     },
     {
       "id": 510826701,
       "name": "aTOUCHOFTHEPRIEST",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 1557,
+      "winrate": 51.95889531149647,
+      "avgDmg": 1252,
+      "topSpg": {
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 456
+      }
     },
     {
       "id": 502604499,
       "name": "Binio_1978",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 7421,
+      "winrate": 51.82589947446436,
+      "avgDmg": 1225,
+      "topSpg": {
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 1469
+      }
     },
     {
       "id": 506043609,
       "name": "CHOJRAK_TCHORZLIWY_LAJT",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 6390,
+      "winrate": 51.330203442879494,
+      "avgDmg": 1376,
+      "topSpg": {
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 2290
+      }
     },
     {
       "id": 524718307,
       "name": "Alpah051",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 1114,
+      "winrate": 48.114901256732495,
+      "avgDmg": 640,
+      "topSpg": {
+        "name": "M40/M43",
+        "tier": 8,
+        "battles": 131
+      }
     },
     {
       "id": 561048292,
       "name": "pandziakuba",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 671,
+      "winrate": 46.79582712369598,
+      "avgDmg": 683,
+      "topSpg": {
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 142
+      }
     },
     {
       "id": 501678825,
       "name": "BREZNIEV",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 2543,
+      "winrate": 49.15454187966969,
+      "avgDmg": 1307,
+      "topSpg": {
+        "name": "Obj. 261",
+        "tier": 10,
+        "battles": 930
+      }
     },
     {
       "id": 562483434,
       "name": "kokolifx414",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 366,
+      "winrate": 55.19125683060109,
+      "avgDmg": 837,
+      "topSpg": {
+        "name": "Lorr. 155 50",
+        "tier": 7,
+        "battles": 95
+      }
     },
     {
       "id": 509860088,
       "name": "GinekologTwojejStarej",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 4698,
+      "winrate": 49.36143039591315,
+      "avgDmg": 993,
+      "topSpg": {
+        "name": "G.W. Panther",
+        "tier": 7,
+        "battles": 576
+      }
     },
     {
       "id": 500257019,
       "name": "Ryb4",
       "role_i18n": "Zastępca dowódcy",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 923,
+      "winrate": 49.29577464788733,
+      "avgDmg": 800,
+      "topSpg": {
+        "name": "Lorr. 155 51",
+        "tier": 8,
+        "battles": 187
+      }
     },
     {
       "id": 523478269,
       "name": "FragForGlory",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 890,
+      "winrate": 51.23595505617977,
+      "avgDmg": 961,
+      "topSpg": {
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 139
+      }
     },
     {
       "id": 507500799,
       "name": "CZ1T3R",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 479,
+      "winrate": 55.323590814196244,
+      "avgDmg": 1987,
+      "topSpg": {
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 131
+      }
     },
     {
       "id": 509568258,
       "name": "Pandusia_",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 434,
+      "winrate": 48.8479262672811,
+      "avgDmg": 527,
+      "topSpg": {
+        "name": "Grille",
+        "tier": 5,
+        "battles": 140
+      }
     },
     {
       "id": 538047750,
       "name": "Rysiek_X",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 5030,
+      "winrate": 48.62823061630219,
+      "avgDmg": 997,
+      "topSpg": {
+        "name": "FV304",
+        "tier": 6,
+        "battles": 441
+      }
     },
     {
       "id": 525505288,
       "name": "marcin_822",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 2052,
+      "winrate": 49.56140350877193,
+      "avgDmg": 896,
+      "topSpg": {
+        "name": "G.W. Panther",
+        "tier": 7,
+        "battles": 456
+      }
     },
     {
       "id": 684339074,
       "name": "Thunder_Storm__1",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 136,
+      "winrate": 52.20588235294118,
+      "avgDmg": 997,
+      "topSpg": {
+        "name": "SU-14-1",
+        "tier": 7,
+        "battles": 56
+      }
     },
     {
       "id": 551529749,
       "name": "krwawy_wojownik7117",
-      "role_i18n": "reservist",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Rezerwista",
+      "battles": 691,
+      "winrate": 46.164978292329955,
+      "avgDmg": 743,
+      "topSpg": {
+        "name": "G.W. Tiger P",
+        "tier": 8,
+        "battles": 234
+      }
     },
     {
       "id": 505964316,
       "name": "IMoher",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 569,
+      "winrate": 52.02108963093146,
+      "avgDmg": 912,
+      "topSpg": {
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 226
+      }
     },
     {
       "id": 529340191,
       "name": "corvve_",
-      "role_i18n": "reservist",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Rezerwista",
+      "battles": 30,
+      "winrate": 53.333333333333336,
+      "avgDmg": 1364,
+      "topSpg": {
+        "name": "Obj. 261",
+        "tier": 10,
+        "battles": 21
+      }
     },
     {
       "id": 633381672,
       "name": "Es6o_2023",
-      "role_i18n": "reservist",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Rezerwista",
+      "battles": 1503,
+      "winrate": 48.902195608782435,
+      "avgDmg": 1109,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 148
+      }
     },
     {
       "id": 547909417,
       "name": "Okrutnik_z_Wadowic_",
       "role_i18n": "Oficer rekrutacyjny",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 850,
+      "winrate": 51.64705882352941,
+      "avgDmg": 842,
+      "topSpg": {
+        "name": "FV3805",
+        "tier": 9,
+        "battles": 159
+      }
     },
     {
       "id": 508316461,
       "name": "majorek1639",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 1359,
+      "winrate": 49.22737306843267,
+      "avgDmg": 843,
+      "topSpg": {
+        "name": "G.W. Tiger P",
+        "tier": 8,
+        "battles": 213
+      }
     },
     {
       "id": 568450865,
       "name": "POSOWACZ",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 225,
+      "winrate": 49.333333333333336,
+      "avgDmg": 1336,
+      "topSpg": {
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 132
+      }
     },
     {
       "id": 582609207,
       "name": "Noctar_",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 173,
+      "winrate": 43.93063583815029,
+      "avgDmg": 1102,
+      "topSpg": {
+        "name": "Obj. 261",
+        "tier": 10,
+        "battles": 42
+      }
     },
     {
       "id": 503424315,
       "name": "blavood",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 8370,
+      "winrate": 51.6726403823178,
+      "avgDmg": 1260,
+      "topSpg": {
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 1802
+      }
     },
     {
       "id": 502382396,
       "name": "Pancake_OG",
-      "role_i18n": "reservist",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Rezerwista",
+      "battles": 870,
+      "winrate": 51.724137931034484,
+      "avgDmg": 1121,
+      "topSpg": {
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 312
+      }
     },
     {
       "id": 546702146,
       "name": "Kapciock94",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 51,
+      "winrate": 50.98039215686274,
+      "avgDmg": 529,
+      "topSpg": {
+        "name": "Bishop",
+        "tier": 5,
+        "battles": 36
+      }
     },
     {
       "id": 717466423,
@@ -744,7 +976,7 @@
     {
       "id": 505686358,
       "name": "sante_Paulus",
-      "role_i18n": "Rezerwista / Szer.",
+      "role_i18n": "Szer.",
       "battles": 0,
       "winrate": 0,
       "avgDmg": 0,
@@ -754,280 +986,404 @@
       "id": 516765532,
       "name": "SPA101",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 1814,
+      "winrate": 49.28335170893054,
+      "avgDmg": 735,
+      "topSpg": {
+        "name": "G.W. Tiger P",
+        "tier": 8,
+        "battles": 252
+      }
     },
     {
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 3030,
+      "winrate": 52.4092409240924,
+      "avgDmg": 1380,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 566
+      }
     },
     {
       "id": 543715681,
       "name": "PolowicZ_IGL",
-      "role_i18n": "reservist",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Rezerwista",
+      "battles": 2395,
+      "winrate": 52.609603340292274,
+      "avgDmg": 1163,
+      "topSpg": {
+        "name": "SU-14-1",
+        "tier": 7,
+        "battles": 337
+      }
     },
     {
       "id": 509651811,
       "name": "SlySerpent",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 799,
+      "winrate": 48.43554443053817,
+      "avgDmg": 558,
+      "topSpg": {
+        "name": "Hummel",
+        "tier": 6,
+        "battles": 201
+      }
     },
     {
       "id": 511262566,
       "name": "Tanku_0806",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 561,
+      "winrate": 47.23707664884135,
+      "avgDmg": 673,
+      "topSpg": {
+        "name": "M40/M43",
+        "tier": 8,
+        "battles": 121
+      }
     },
     {
       "id": 504202599,
       "name": "Adaan",
-      "role_i18n": "reservist",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Rezerwista",
+      "battles": 2646,
+      "winrate": 49.77324263038549,
+      "avgDmg": 1241,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 931
+      }
     },
     {
       "id": 501893996,
       "name": "mateusz_duster_hunter",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 12445,
+      "winrate": 56.2474889513861,
+      "avgDmg": 1465,
+      "topSpg": {
+        "name": "Obj. 261",
+        "tier": 10,
+        "battles": 5691
+      }
     },
     {
       "id": 524710765,
       "name": "Grac3kooo",
-      "role_i18n": "reservist",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Rezerwista",
+      "battles": 540,
+      "winrate": 50.92592592592593,
+      "avgDmg": 1034,
+      "topSpg": {
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 186
+      }
     },
     {
       "id": 528775028,
       "name": "zati31",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 1318,
+      "winrate": 51.138088012139605,
+      "avgDmg": 679,
+      "topSpg": {
+        "name": "M44",
+        "tier": 6,
+        "battles": 893
+      }
     },
     {
       "id": 503552889,
       "name": "SuperBenek",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 3042,
+      "winrate": 50.69033530571993,
+      "avgDmg": 1275,
+      "topSpg": {
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 467
+      }
     },
     {
       "id": 692267389,
       "name": "McAlkoReksio",
       "role_i18n": "Oficer rekrutacyjny",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 20,
+      "winrate": 50,
+      "avgDmg": 825,
+      "topSpg": {
+        "name": "SU-14-1",
+        "tier": 7,
+        "battles": 20
+      }
     },
     {
       "id": 501862274,
       "name": "piotrek553",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 5327,
+      "winrate": 48.78918715975221,
+      "avgDmg": 876,
+      "topSpg": {
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 678
+      }
     },
     {
       "id": 566881671,
       "name": "Zpa_1",
       "role_i18n": "Oficer bojowy",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 915,
+      "winrate": 49.94535519125683,
+      "avgDmg": 962,
+      "topSpg": {
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 313
+      }
     },
     {
       "id": 514702739,
       "name": "Sasiad44",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 3327,
+      "winrate": 49.02314397354974,
+      "avgDmg": 927,
+      "topSpg": {
+        "name": "G.W. Tiger P",
+        "tier": 8,
+        "battles": 434
+      }
     },
     {
       "id": 504216983,
       "name": "bydyk75",
       "role_i18n": "Młodszy oficer",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 3279,
+      "winrate": 49.31381518755718,
+      "avgDmg": 913,
+      "topSpg": {
+        "name": "G.W. Tiger P",
+        "tier": 8,
+        "battles": 314
+      }
     },
     {
       "id": 509430191,
       "name": "_Sweet_Gromus__",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 1952,
+      "winrate": 52.66393442622951,
+      "avgDmg": 867,
+      "topSpg": {
+        "name": "B-C 155 55",
+        "tier": 9,
+        "battles": 233
+      }
     },
     {
       "id": 519675313,
       "name": "Kabas86",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 2332,
+      "winrate": 49.82847341337908,
+      "avgDmg": 861,
+      "topSpg": {
+        "name": "G.W. E 100",
+        "tier": 10,
+        "battles": 373
+      }
     },
     {
       "id": 542000050,
       "name": "komikacz69",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 2076,
+      "winrate": 52.07129094412332,
+      "avgDmg": 993,
+      "topSpg": {
+        "name": "Obj. 261",
+        "tier": 10,
+        "battles": 475
+      }
     },
     {
       "id": 514265529,
       "name": "Ahzrak",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 169,
+      "winrate": 50.887573964497044,
+      "avgDmg": 907,
+      "topSpg": {
+        "name": "G.W. Tiger P",
+        "tier": 8,
+        "battles": 56
+      }
     },
     {
       "id": 501001663,
       "name": "jang1",
       "role_i18n": "Dowódca",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 6545,
+      "winrate": 50.40488922841864,
+      "avgDmg": 1216,
+      "topSpg": {
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 690
+      }
     },
     {
       "id": 527754688,
       "name": "Ksieciunio_",
       "role_i18n": "Młodszy oficer",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 885,
+      "winrate": 56.045197740113,
+      "avgDmg": 1223,
+      "topSpg": {
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 315
+      }
     },
     {
       "id": 519915969,
       "name": "Paulinka_lat_12",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 171,
+      "winrate": 50.29239766081871,
+      "avgDmg": 762,
+      "topSpg": {
+        "name": "G.W. Tiger P",
+        "tier": 8,
+        "battles": 71
+      }
     },
     {
       "id": 500211138,
       "name": "zbyszkoj",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 4626,
+      "winrate": 50.51880674448768,
+      "avgDmg": 1525,
+      "topSpg": {
+        "name": "212A",
+        "tier": 9,
+        "battles": 804
+      }
     },
     {
       "id": 501874633,
       "name": "TomassoPL",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 2364,
+      "winrate": 48.81556683587141,
+      "avgDmg": 1230,
+      "topSpg": {
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 943
+      }
     },
     {
       "id": 507762126,
       "name": "deo100",
       "role_i18n": "Młodszy oficer",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 3911,
+      "winrate": 49.961646637688574,
+      "avgDmg": 881,
+      "topSpg": {
+        "name": "AMX 13 F3",
+        "tier": 6,
+        "battles": 702
+      }
     },
     {
       "id": 519989201,
       "name": "majek1989",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 4520,
+      "winrate": 48.91592920353982,
+      "avgDmg": 1220,
+      "topSpg": {
+        "name": "G.W. E 100",
+        "tier": 10,
+        "battles": 783
+      }
     },
     {
       "id": 505811922,
       "name": "_Pif_Paf1978",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 6756,
+      "winrate": 49.58555358200118,
+      "avgDmg": 1315,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 1853
+      }
     },
     {
       "id": 580224482,
       "name": "Marcelsiq",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 261,
+      "winrate": 43.67816091954023,
+      "avgDmg": 868,
+      "topSpg": {
+        "name": "SU-14-2",
+        "tier": 8,
+        "battles": 83
+      }
     },
     {
       "id": 560634340,
       "name": "xXx_Adik_xXx",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 1176,
+      "winrate": 51.10544217687075,
+      "avgDmg": 851,
+      "topSpg": {
+        "name": "M12",
+        "tier": 7,
+        "battles": 207
+      }
     },
     {
       "id": 576085989,
       "name": "Dzela1145",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 89,
+      "winrate": 49.43820224719101,
+      "avgDmg": 753,
+      "topSpg": {
+        "name": "S-51",
+        "tier": 7,
+        "battles": 42
+      }
     },
     {
       "id": 500622830,
       "name": "KONAN3000",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 2598,
+      "winrate": 49.230177059276365,
+      "avgDmg": 965,
+      "topSpg": {
+        "name": "212A",
+        "tier": 9,
+        "battles": 507
+      }
     },
     {
       "id": 680246013,
@@ -1041,34 +1397,46 @@
     {
       "id": 500192756,
       "name": "eatsome",
-      "role_i18n": "reservist",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Rezerwista",
+      "battles": 1328,
+      "winrate": 50.75301204819277,
+      "avgDmg": 903,
+      "topSpg": {
+        "name": "G.W. Panther",
+        "tier": 7,
+        "battles": 439
+      }
     },
     {
       "id": 502567417,
       "name": "marekel1",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 7182,
+      "winrate": 52.589807852965755,
+      "avgDmg": 1548,
+      "topSpg": {
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 1287
+      }
     },
     {
       "id": 543726589,
       "name": "Przemek0299",
-      "role_i18n": "Rezerwista / Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "role_i18n": "Szer.",
+      "battles": 807,
+      "winrate": 48.3271375464684,
+      "avgDmg": 710,
+      "topSpg": {
+        "name": "AMX 13 F3",
+        "tier": 6,
+        "battles": 130
+      }
     },
     {
       "id": 720440831,
       "name": "H0cusP0cusArtyF0cus",
-      "role_i18n": "Rezerwista / Szer.",
+      "role_i18n": "Szer.",
       "battles": 0,
       "winrate": 0,
       "avgDmg": 0,
