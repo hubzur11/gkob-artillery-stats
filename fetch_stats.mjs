@@ -54,7 +54,7 @@ async function run() {
         const members = clanData.data[CLAN_ID].members || [];
         console.log(`Pobrano ${members.length} członków klanu.`);
 
-        console.log("3. Pobieranie statystyk czołgów dla każdego gracza z osobna...");
+        console.log("3. Pobieranie statystyk czołgów...");
         let tankStatsMap = {};
 
         for (let i = 0; i < members.length; i++) {
@@ -65,14 +65,10 @@ async function run() {
 
                 if (tanksData && tanksData.status === 'ok' && tanksData.data && tanksData.data[accId]) {
                     tankStatsMap[accId] = tanksData.data[accId];
-                } else {
-                    console.warn(`Pominięto gracza ${accId} (${members[i].account_name}) - brak danych lub błąd konta.`);
                 }
             } catch (err) {
                 console.warn(`Błąd przy pobieraniu danych dla ID ${accId}:`, err.message);
             }
-
-            // Odstęp 50 ms uniemożliwiający blokowanie zapytań przez serwer API
             await sleep(50);
         }
 
@@ -118,10 +114,8 @@ async function run() {
             });
         });
 
-        console.log(`Łączna zliczona liczba bitew na artylerii: ${grandTotalArtyBattles}`);
-
         if (grandTotalArtyBattles === 0) {
-            throw new Error("Suma bitew wyszła 0. Przerywam zapis, aby nie nadpisać pliku zera-mi.");
+            throw new Error("Suma bitew wyszła 0. Przerywam zapis.");
         }
 
         const todayStr = new Date().toISOString().slice(0, 10);
@@ -134,8 +128,29 @@ async function run() {
             } catch (e) {}
         }
 
-        const dailySnap = (oldDb.dailyDate === todayStr && oldDb.daily && Object.keys(oldDb.daily).length > 0) ? oldDb.daily : currentBattlesMap;
-        const monthlySnap = (oldDb.monthlyDate === monthStr && oldDb.monthly && Object.keys(oldDb.monthly).length > 0) ? oldDb.monthly : currentBattlesMap;
+        const dailySnap = {};
+        const monthlySnap = {};
+
+        members.forEach(member => {
+            const accId = member.account_id;
+            const currentBattles = currentBattlesMap[accId] || 0;
+
+            // Naprawa punktu zerowego dnia
+            const oldDayVal = (oldDb.dailyDate === todayStr && oldDb.daily) ? oldDb.daily[accId] : null;
+            if (oldDayVal !== null && oldDayVal !== undefined && oldDayVal > 0) {
+                dailySnap[accId] = oldDayVal;
+            } else {
+                dailySnap[accId] = currentBattles; // Reset punktu zero do stanu obecnego
+            }
+
+            // Naprawa punktu zerowego miesiąca
+            const oldMonthVal = (oldDb.monthlyDate === monthStr && oldDb.monthly) ? oldDb.monthly[accId] : null;
+            if (oldMonthVal !== null && oldMonthVal !== undefined && oldMonthVal > 0) {
+                monthlySnap[accId] = oldMonthVal;
+            } else {
+                monthlySnap[accId] = currentBattles; // Reset punktu zero do stanu obecnego
+            }
+        });
 
         const finalData = {
             lastUpdated: new Date().toISOString(),
@@ -147,7 +162,7 @@ async function run() {
         };
 
         fs.writeFileSync('data.json', JSON.stringify(finalData, null, 2));
-        console.log("SUKCES: Pomyślnie pobrano dane i wygenerowano plik data.json!");
+        console.log("SUKCES: Baza data.json została pomyślnie zresetowana i zapisana!");
 
     } catch (e) {
         console.error("BŁĄD:", e.message);
