@@ -42,9 +42,6 @@ async function run() {
         }
 
         console.log(`Pomyślnie znaleziono ${spgIds.size} artylerii (SPG) w encyklopedii.`);
-        if (spgIds.size === 0) {
-            throw new Error("Błąd: Nie znaleziono żadnych pojazdów SPG w encyklopedii WG!");
-        }
 
         console.log("2. Pobieranie członków klanu GKOB...");
         const clanRes = await fetch(`https://api.worldoftanks.eu/wot/clans/info/?application_id=${WG_APP_ID}&clan_id=${CLAN_ID}`);
@@ -55,27 +52,28 @@ async function run() {
         }
 
         const members = clanData.data[CLAN_ID].members || [];
-        const accountIds = members.map(m => m.account_id);
         console.log(`Pobrano ${members.length} członków klanu.`);
 
-        console.log("3. Pobieranie statystyk czołgów dla wszystkich graczy...");
+        console.log("3. Pobieranie statystyk czołgów dla każdego gracza z osobna...");
         let tankStatsMap = {};
 
-        for (let i = 0; i < accountIds.length; i += 20) {
-            const chunk = accountIds.slice(i, i + 20).join(',');
-            await sleep(300); // Odstęp czasowy 300ms, aby uniknąć bloku Wargaming API
+        for (let i = 0; i < members.length; i++) {
+            const accId = members[i].account_id;
+            try {
+                const tanksRes = await fetch(`https://api.worldoftanks.eu/wot/tanks/stats/?application_id=${WG_APP_ID}&account_id=${accId}`);
+                const tanksData = await tanksRes.json();
 
-            const tanksRes = await fetch(`https://api.worldoftanks.eu/wot/tanks/stats/?application_id=${WG_APP_ID}&account_id=${chunk}`);
-            const tanksData = await tanksRes.json();
-
-            if (!tanksData || tanksData.status !== 'ok') {
-                console.error(`Błąd API dla paczki graczy ${i}:`, tanksData?.error);
-                throw new Error(`Błąd pobierania statystyk graczy z Wargaming API: ${JSON.stringify(tanksData?.error)}`);
+                if (tanksData && tanksData.status === 'ok' && tanksData.data && tanksData.data[accId]) {
+                    tankStatsMap[accId] = tanksData.data[accId];
+                } else {
+                    console.warn(`Pominięto gracza ${accId} (${members[i].account_name}) - brak danych lub błąd konta.`);
+                }
+            } catch (err) {
+                console.warn(`Błąd przy pobieraniu danych dla ID ${accId}:`, err.message);
             }
 
-            if (tanksData.data) {
-                Object.assign(tankStatsMap, tanksData.data);
-            }
+            // Odstęp 50 ms uniemożliwiający blokowanie zapytań przez serwer API
+            await sleep(50);
         }
 
         const players = [];
@@ -120,10 +118,10 @@ async function run() {
             });
         });
 
-        console.log(`Zliczona łączna liczba bitew na artylerii: ${grandTotalArtyBattles}`);
+        console.log(`Łączna zliczona liczba bitew na artylerii: ${grandTotalArtyBattles}`);
 
         if (grandTotalArtyBattles === 0) {
-            throw new Error("Suma bitew wyszła 0. Przerywam zapis, aby nie uszkodzić pliku data.json.");
+            throw new Error("Suma bitew wyszła 0. Przerywam zapis, aby nie nadpisać pliku zera-mi.");
         }
 
         const todayStr = new Date().toISOString().slice(0, 10);
@@ -149,7 +147,7 @@ async function run() {
         };
 
         fs.writeFileSync('data.json', JSON.stringify(finalData, null, 2));
-        console.log("SUKCES: Pomyślnie pobrano dane i zapisano plik data.json!");
+        console.log("SUKCES: Pomyślnie pobrano dane i wygenerowano plik data.json!");
 
     } catch (e) {
         console.error("BŁĄD:", e.message);
