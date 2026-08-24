@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T22:22:27.436Z",
+  "lastUpdated": "2026-08-24T23:20:04.427Z",
   "dailyDate": "2026-08-24",
   "monthlyDate": "2026-08",
   "daily": {
@@ -617,8 +617,8 @@
       "id": 519015115,
       "name": "EnDi_CoronaSwirus",
       "role_i18n": "Rekrut",
-      "battles": 1743,
-      "winrate": 49.91394148020654,
+      "battles": 1746,
+      "winrate": 49.828178694158076,
       "avgDmg": 938,
       "topSpg": {
         "name": "M53/M55",
