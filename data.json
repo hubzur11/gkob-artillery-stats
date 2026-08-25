@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T17:28:59.093Z",
+  "lastUpdated": "2026-08-25T18:35:22.172Z",
   "dailyDate": "2026-08-25",
   "monthlyDate": "2026-08",
   "daily": {
@@ -770,7 +770,7 @@
     {
       "id": 507500799,
       "name": "CZ1T3R",
-      "role_i18n": "Szer.",
+      "role_i18n": "Oficer bojowy",
       "battles": 479,
       "winrate": 55.323590814196244,
       "avgDmg": 1987,
