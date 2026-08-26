@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T09:37:42.262Z",
+  "lastUpdated": "2026-08-26T10:32:28.343Z",
   "dailyDate": "2026-08-26",
   "monthlyDate": "2026-08",
   "daily": {
@@ -268,8 +268,8 @@
       "id": 500380178,
       "name": "thazz_",
       "role_i18n": "Rekrut",
-      "battles": 9548,
-      "winrate": 49.780058651026394,
+      "battles": 9551,
+      "winrate": 49.77489268139462,
       "avgDmg": 1091,
       "topSpg": {
         "name": "SU-8",
