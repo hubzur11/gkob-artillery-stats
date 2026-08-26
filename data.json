@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T18:58:15.898Z",
+  "lastUpdated": "2026-08-26T21:41:11.058Z",
   "dailyDate": "2026-08-26",
   "monthlyDate": "2026-08",
   "daily": {
@@ -268,8 +268,8 @@
       "id": 500380178,
       "name": "thazz_",
       "role_i18n": "Rekrut",
-      "battles": 9552,
-      "winrate": 49.780150753768844,
+      "battles": 9554,
+      "winrate": 49.79066359639941,
       "avgDmg": 1091,
       "topSpg": {
         "name": "SU-8",
@@ -398,8 +398,8 @@
       "id": 505285183,
       "name": "green_warriorr",
       "role_i18n": "Rekrut",
-      "battles": 1150,
-      "winrate": 48.608695652173914,
+      "battles": 1151,
+      "winrate": 48.566463944396176,
       "avgDmg": 1057,
       "topSpg": {
         "name": "G.W. Tiger",
@@ -537,9 +537,9 @@
       "id": 573225140,
       "name": "Misiek17_2020",
       "role_i18n": "Szer.",
-      "battles": 410,
-      "winrate": 53.41463414634147,
-      "avgDmg": 505,
+      "battles": 411,
+      "winrate": 53.284671532846716,
+      "avgDmg": 506,
       "topSpg": {
         "name": "M12",
         "tier": 7,
@@ -1127,8 +1127,8 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5327,
-      "winrate": 48.78918715975221,
+      "battles": 5328,
+      "winrate": 48.780030030030034,
       "avgDmg": 876,
       "topSpg": {
         "name": "Conqueror GC",
