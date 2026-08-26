@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T16:15:53.566Z",
+  "lastUpdated": "2026-08-26T18:58:15.898Z",
   "dailyDate": "2026-08-26",
   "monthlyDate": "2026-08",
   "daily": {
@@ -398,8 +398,8 @@
       "id": 505285183,
       "name": "green_warriorr",
       "role_i18n": "Rekrut",
-      "battles": 1149,
-      "winrate": 48.56396866840731,
+      "battles": 1150,
+      "winrate": 48.608695652173914,
       "avgDmg": 1057,
       "topSpg": {
         "name": "G.W. Tiger",
@@ -1396,9 +1396,9 @@
       "id": 502567417,
       "name": "marekel1",
       "role_i18n": "Szer.",
-      "battles": 7182,
-      "winrate": 52.589807852965755,
-      "avgDmg": 1548,
+      "battles": 7183,
+      "winrate": 52.59640818599471,
+      "avgDmg": 1549,
       "topSpg": {
         "name": "Conqueror GC",
         "tier": 10,
