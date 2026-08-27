@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T02:52:06.160Z",
+  "lastUpdated": "2026-08-27T13:42:43.315Z",
   "dailyDate": "2026-08-27",
   "monthlyDate": "2026-08",
   "daily": {
@@ -628,9 +628,9 @@
       "id": 519015115,
       "name": "EnDi_CoronaSwirus",
       "role_i18n": "Rekrut",
-      "battles": 1750,
-      "winrate": 49.82857142857143,
-      "avgDmg": 939,
+      "battles": 1752,
+      "winrate": 49.885844748858446,
+      "avgDmg": 941,
       "topSpg": {
         "name": "M53/M55",
         "tier": 9,
@@ -719,9 +719,9 @@
       "id": 562483434,
       "name": "kokolifx414",
       "role_i18n": "Szer.",
-      "battles": 366,
-      "winrate": 55.19125683060109,
-      "avgDmg": 837,
+      "battles": 367,
+      "winrate": 55.313351498637594,
+      "avgDmg": 840,
       "topSpg": {
         "name": "Lorr. 155 50",
         "tier": 7,
