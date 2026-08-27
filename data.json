@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T13:42:43.315Z",
+  "lastUpdated": "2026-08-27T23:32:58.573Z",
   "dailyDate": "2026-08-27",
   "monthlyDate": "2026-08",
   "daily": {
@@ -346,8 +346,8 @@
       "id": 512665137,
       "name": "marek98765432",
       "role_i18n": "Szer.",
-      "battles": 3717,
-      "winrate": 52.35404896421846,
+      "battles": 3718,
+      "winrate": 52.366863905325445,
       "avgDmg": 1087,
       "topSpg": {
         "name": "T92 HMC",
@@ -693,9 +693,9 @@
       "id": 561048292,
       "name": "pandziakuba",
       "role_i18n": "Rekrut",
-      "battles": 671,
-      "winrate": 46.79582712369598,
-      "avgDmg": 683,
+      "battles": 677,
+      "winrate": 46.971935007385525,
+      "avgDmg": 684,
       "topSpg": {
         "name": "M53/M55",
         "tier": 9,
@@ -927,8 +927,8 @@
       "id": 503424315,
       "name": "blavood",
       "role_i18n": "Szer.",
-      "battles": 8370,
-      "winrate": 51.6726403823178,
+      "battles": 8371,
+      "winrate": 51.666467566598975,
       "avgDmg": 1260,
       "topSpg": {
         "name": "M53/M55",
