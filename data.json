@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T08:50:37.352Z",
+  "lastUpdated": "2026-08-28T20:40:43.734Z",
   "dailyDate": "2026-08-28",
   "monthlyDate": "2026-08",
   "daily": {
@@ -72,6 +72,7 @@
     "543715681": 2395,
     "543726589": 807,
     "543904952": 1614,
+    "545984353": 2420,
     "546702146": 51,
     "547909417": 850,
     "551529749": 691,
@@ -170,6 +171,7 @@
     "543715681": 2395,
     "543726589": 807,
     "543904952": 1614,
+    "545984353": 2420,
     "546702146": 51,
     "547909417": 850,
     "551529749": 691,
@@ -408,6 +410,19 @@
       }
     },
     {
+      "id": 543715681,
+      "name": "PolowicZ_IGL",
+      "role_i18n": "Rezerwista",
+      "battles": 2395,
+      "winrate": 52.609603340292274,
+      "avgDmg": 1163,
+      "topSpg": {
+        "name": "SU-14-1",
+        "tier": 7,
+        "battles": 337
+      }
+    },
+    {
       "id": 525520969,
       "name": "___BANDZIOR___",
       "role_i18n": "Rekrut",
@@ -537,9 +552,9 @@
       "id": 573225140,
       "name": "Misiek17_2020",
       "role_i18n": "Szer.",
-      "battles": 411,
-      "winrate": 53.284671532846716,
-      "avgDmg": 506,
+      "battles": 413,
+      "winrate": 53.26876513317191,
+      "avgDmg": 509,
       "topSpg": {
         "name": "M12",
         "tier": 7,
@@ -680,9 +695,9 @@
       "id": 524718307,
       "name": "Alpah051",
       "role_i18n": "Szer.",
-      "battles": 1114,
-      "winrate": 48.114901256732495,
-      "avgDmg": 640,
+      "battles": 1116,
+      "winrate": 48.11827956989247,
+      "avgDmg": 643,
       "topSpg": {
         "name": "M40/M43",
         "tier": 8,
@@ -693,9 +708,9 @@
       "id": 561048292,
       "name": "pandziakuba",
       "role_i18n": "Rekrut",
-      "battles": 679,
-      "winrate": 47.1281296023564,
-      "avgDmg": 683,
+      "battles": 683,
+      "winrate": 47.2913616398243,
+      "avgDmg": 685,
       "topSpg": {
         "name": "M53/M55",
         "tier": 9,
@@ -927,8 +942,8 @@
       "id": 503424315,
       "name": "blavood",
       "role_i18n": "Szer.",
-      "battles": 8371,
-      "winrate": 51.666467566598975,
+      "battles": 8372,
+      "winrate": 51.66029622551361,
       "avgDmg": 1260,
       "topSpg": {
         "name": "M53/M55",
@@ -1007,29 +1022,29 @@
       }
     },
     {
-      "id": 543715681,
-      "name": "PolowicZ_IGL",
-      "role_i18n": "Rezerwista",
-      "battles": 2395,
-      "winrate": 52.609603340292274,
-      "avgDmg": 1163,
+      "id": 545984353,
+      "name": "kamis90",
+      "role_i18n": "Rekrut",
+      "battles": 2420,
+      "winrate": 50.53719008264462,
+      "avgDmg": 1229,
       "topSpg": {
-        "name": "SU-14-1",
-        "tier": 7,
-        "battles": 337
+        "name": "G.W. E 100",
+        "tier": 10,
+        "battles": 806
       }
     },
     {
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21563,
-      "winrate": 51.67648286416547,
+      "battles": 21564,
+      "winrate": 51.67872379892413,
       "avgDmg": 1215,
       "topSpg": {
         "name": "FV3805",
         "tier": 9,
-        "battles": 5639
+        "battles": 5640
       }
     },
     {
@@ -1335,9 +1350,9 @@
       "id": 580224482,
       "name": "Marcelsiq",
       "role_i18n": "Szer.",
-      "battles": 261,
-      "winrate": 43.67816091954023,
-      "avgDmg": 868,
+      "battles": 262,
+      "winrate": 43.51145038167939,
+      "avgDmg": 867,
       "topSpg": {
         "name": "SU-14-2",
         "tier": 8,
