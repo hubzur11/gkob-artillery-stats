@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T15:27:44.196Z",
+  "lastUpdated": "2026-08-29T19:09:09.650Z",
   "dailyDate": "2026-08-29",
   "monthlyDate": "2026-08",
   "daily": {
@@ -334,7 +334,7 @@
     {
       "id": 676232541,
       "name": "GiGiEdg3",
-      "role_i18n": "Szer.",
+      "role_i18n": "Rezerwista",
       "battles": 131,
       "winrate": 47.32824427480916,
       "avgDmg": 951,
@@ -426,19 +426,19 @@
       "id": 525520969,
       "name": "___BANDZIOR___",
       "role_i18n": "Rekrut",
-      "battles": 1013,
-      "winrate": 48.27245804540967,
-      "avgDmg": 1025,
+      "battles": 1016,
+      "winrate": 48.326771653543304,
+      "avgDmg": 1026,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
-        "battles": 307
+        "battles": 308
       }
     },
     {
       "id": 509651811,
       "name": "SlySerpent",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 799,
       "winrate": 48.43554443053817,
       "avgDmg": 558,
@@ -486,7 +486,7 @@
     {
       "id": 513029254,
       "name": "playtowin320",
-      "role_i18n": "Szer.",
+      "role_i18n": "Rezerwista",
       "battles": 2435,
       "winrate": 50.26694045174538,
       "avgDmg": 831,
@@ -577,7 +577,7 @@
     {
       "id": 566402742,
       "name": "Havieron",
-      "role_i18n": "Rezerwista",
+      "role_i18n": "Szer.",
       "battles": 228,
       "winrate": 46.05263157894737,
       "avgDmg": 875,
@@ -603,7 +603,7 @@
     {
       "id": 569194682,
       "name": "kubas_321",
-      "role_i18n": "Szer.",
+      "role_i18n": "Rezerwista",
       "battles": 388,
       "winrate": 48.45360824742268,
       "avgDmg": 857,
@@ -720,7 +720,7 @@
     {
       "id": 501678825,
       "name": "BREZNIEV",
-      "role_i18n": "Szer.",
+      "role_i18n": "Rezerwista",
       "battles": 2543,
       "winrate": 49.15454187966969,
       "avgDmg": 1307,
@@ -1050,7 +1050,7 @@
     {
       "id": 511262566,
       "name": "Tanku_0806",
-      "role_i18n": "Szer.",
+      "role_i18n": "Rezerwista",
       "battles": 561,
       "winrate": 47.23707664884135,
       "avgDmg": 673,
@@ -1232,7 +1232,7 @@
     {
       "id": 514265529,
       "name": "Ahzrak",
-      "role_i18n": "Szer.",
+      "role_i18n": "Rezerwista",
       "battles": 169,
       "winrate": 50.887573964497044,
       "avgDmg": 907,
@@ -1271,7 +1271,7 @@
     {
       "id": 519915969,
       "name": "Paulinka_lat_12",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 171,
       "winrate": 50.29239766081871,
       "avgDmg": 762,
@@ -1323,7 +1323,7 @@
     {
       "id": 519989201,
       "name": "majek1989",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 4520,
       "winrate": 48.91592920353982,
       "avgDmg": 1220,
