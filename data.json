@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T19:09:09.650Z",
+  "lastUpdated": "2026-08-29T22:17:29.038Z",
   "dailyDate": "2026-08-29",
   "monthlyDate": "2026-08",
   "daily": {
@@ -942,8 +942,8 @@
       "id": 503424315,
       "name": "blavood",
       "role_i18n": "Szer.",
-      "battles": 8372,
-      "winrate": 51.66029622551361,
+      "battles": 8373,
+      "winrate": 51.65412635853338,
       "avgDmg": 1260,
       "topSpg": {
         "name": "M53/M55",
