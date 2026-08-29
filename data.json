@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T10:43:49.035Z",
+  "lastUpdated": "2026-08-29T15:27:44.196Z",
   "dailyDate": "2026-08-29",
   "monthlyDate": "2026-08",
   "daily": {
@@ -643,9 +643,9 @@
       "id": 519015115,
       "name": "EnDi_CoronaSwirus",
       "role_i18n": "Rekrut",
-      "battles": 1753,
-      "winrate": 49.85738733599543,
-      "avgDmg": 941,
+      "battles": 1754,
+      "winrate": 49.82896237172178,
+      "avgDmg": 942,
       "topSpg": {
         "name": "M53/M55",
         "tier": 9,
@@ -1168,9 +1168,9 @@
       "id": 514702739,
       "name": "Sasiad44",
       "role_i18n": "Szer.",
-      "battles": 3327,
-      "winrate": 49.02314397354974,
-      "avgDmg": 927,
+      "battles": 3332,
+      "winrate": 49.039615846338535,
+      "avgDmg": 928,
       "topSpg": {
         "name": "G.W. Tiger P",
         "tier": 8,
