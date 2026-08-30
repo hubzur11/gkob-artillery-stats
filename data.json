@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T12:34:35.166Z",
+  "lastUpdated": "2026-08-30T17:11:19.362Z",
   "dailyDate": "2026-08-30",
   "monthlyDate": "2026-08",
   "daily": {
@@ -762,9 +762,9 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4698,
-      "winrate": 49.36143039591315,
-      "avgDmg": 993,
+      "battles": 4701,
+      "winrate": 49.35120187194214,
+      "avgDmg": 994,
       "topSpg": {
         "name": "G.W. Panther",
         "tier": 7,
@@ -1157,8 +1157,8 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5332,
-      "winrate": 48.762190547636905,
+      "battles": 5336,
+      "winrate": 48.7256371814093,
       "avgDmg": 876,
       "topSpg": {
         "name": "Conqueror GC",
