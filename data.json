@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T10:27:50.757Z",
+  "lastUpdated": "2026-08-31T17:51:04.021Z",
   "dailyDate": "2026-08-31",
   "monthlyDate": "2026-08",
   "daily": {
@@ -438,7 +438,7 @@
     {
       "id": 525520969,
       "name": "___BANDZIOR___",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Szer.",
       "battles": 1016,
       "winrate": 48.326771653543304,
       "avgDmg": 1026,
@@ -695,8 +695,8 @@
       "id": 506043609,
       "name": "CHOJRAK_TCHORZLIWY_LAJT",
       "role_i18n": "Rekrut",
-      "battles": 6390,
-      "winrate": 51.330203442879494,
+      "battles": 6393,
+      "winrate": 51.337400281557954,
       "avgDmg": 1376,
       "topSpg": {
         "name": "M53/M55",
