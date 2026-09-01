@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T20:29:36.232Z",
+  "lastUpdated": "2026-09-01T22:59:19.020Z",
   "dailyDate": "2026-09-01",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1146,8 +1146,8 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5337,
-      "winrate": 48.735244519392914,
+      "battles": 5338,
+      "winrate": 48.72611464968153,
       "avgDmg": 876,
       "topSpg": {
         "name": "Conqueror GC",
@@ -1198,8 +1198,8 @@
       "id": 509430191,
       "name": "_Sweet_Gromus__",
       "role_i18n": "Rekrut",
-      "battles": 1964,
-      "winrate": 52.74949083503056,
+      "battles": 1966,
+      "winrate": 52.695829094608335,
       "avgDmg": 866,
       "topSpg": {
         "name": "B-C 155 55",
