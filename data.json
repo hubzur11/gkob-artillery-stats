@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T13:02:26.765Z",
+  "lastUpdated": "2026-09-01T17:34:12.922Z",
   "dailyDate": "2026-09-01",
   "monthlyDate": "2026-09",
   "daily": {
@@ -656,9 +656,9 @@
       "id": 519015115,
       "name": "EnDi_CoronaSwirus",
       "role_i18n": "Szer.",
-      "battles": 1758,
-      "winrate": 49.77246871444824,
-      "avgDmg": 944,
+      "battles": 1759,
+      "winrate": 49.80102330869812,
+      "avgDmg": 945,
       "topSpg": {
         "name": "M53/M55",
         "tier": 9,
@@ -1198,8 +1198,8 @@
       "id": 509430191,
       "name": "_Sweet_Gromus__",
       "role_i18n": "Rekrut",
-      "battles": 1952,
-      "winrate": 52.66393442622951,
+      "battles": 1957,
+      "winrate": 52.78487480838018,
       "avgDmg": 867,
       "topSpg": {
         "name": "B-C 155 55",
