@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T10:32:33.148Z",
+  "lastUpdated": "2026-09-02T14:57:12.995Z",
   "dailyDate": "2026-09-02",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1198,8 +1198,8 @@
       "id": 509430191,
       "name": "_Sweet_Gromus__",
       "role_i18n": "Rekrut",
-      "battles": 1968,
-      "winrate": 52.743902439024396,
+      "battles": 1972,
+      "winrate": 52.68762677484787,
       "avgDmg": 866,
       "topSpg": {
         "name": "B-C 155 55",
