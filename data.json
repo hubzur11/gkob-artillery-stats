@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T18:27:13.362Z",
+  "lastUpdated": "2026-09-02T21:34:24.399Z",
   "dailyDate": "2026-09-02",
   "monthlyDate": "2026-09",
   "daily": {
@@ -656,8 +656,8 @@
       "id": 519015115,
       "name": "EnDi_CoronaSwirus",
       "role_i18n": "Szer.",
-      "battles": 1759,
-      "winrate": 49.80102330869812,
+      "battles": 1762,
+      "winrate": 49.77298524404086,
       "avgDmg": 945,
       "topSpg": {
         "name": "M53/M55",
@@ -929,9 +929,9 @@
       "id": 568450865,
       "name": "POSOWACZ",
       "role_i18n": "Rekrut",
-      "battles": 227,
-      "winrate": 48.89867841409692,
-      "avgDmg": 1332,
+      "battles": 230,
+      "winrate": 49.130434782608695,
+      "avgDmg": 1321,
       "topSpg": {
         "name": "Conqueror GC",
         "tier": 10,
@@ -1003,8 +1003,8 @@
       "id": 516765532,
       "name": "SPA101",
       "role_i18n": "Rekrut",
-      "battles": 1815,
-      "winrate": 49.311294765840216,
+      "battles": 1816,
+      "winrate": 49.284140969163,
       "avgDmg": 736,
       "topSpg": {
         "name": "G.W. Tiger P",
@@ -1146,8 +1146,8 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5339,
-      "winrate": 48.73571829930698,
+      "battles": 5340,
+      "winrate": 48.745318352059925,
       "avgDmg": 876,
       "topSpg": {
         "name": "Conqueror GC",
