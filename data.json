@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T21:34:24.399Z",
+  "lastUpdated": "2026-09-02T23:50:10.925Z",
   "dailyDate": "2026-09-02",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1146,8 +1146,8 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5340,
-      "winrate": 48.745318352059925,
+      "battles": 5342,
+      "winrate": 48.76450767502808,
       "avgDmg": 876,
       "topSpg": {
         "name": "Conqueror GC",
