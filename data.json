@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T12:33:44.873Z",
+  "lastUpdated": "2026-09-03T16:55:32.748Z",
   "dailyDate": "2026-09-03",
   "monthlyDate": "2026-09",
   "daily": {
@@ -760,9 +760,9 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4701,
-      "winrate": 49.35120187194214,
-      "avgDmg": 994,
+      "battles": 4706,
+      "winrate": 49.34126646833829,
+      "avgDmg": 993,
       "topSpg": {
         "name": "G.W. Panther",
         "tier": 7,
