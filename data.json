@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T05:26:54.537Z",
+  "lastUpdated": "2026-09-04T10:30:28.219Z",
   "dailyDate": "2026-09-04",
   "monthlyDate": "2026-09",
   "daily": {
@@ -348,8 +348,8 @@
       "id": 542241836,
       "name": "wombat__maly",
       "role_i18n": "Oficer bojowy",
-      "battles": 1497,
-      "winrate": 47.62859051436206,
+      "battles": 1498,
+      "winrate": 47.596795727636845,
       "avgDmg": 803,
       "topSpg": {
         "name": "Bishop",
@@ -656,8 +656,8 @@
       "id": 519015115,
       "name": "EnDi_CoronaSwirus",
       "role_i18n": "Szer.",
-      "battles": 1762,
-      "winrate": 49.77298524404086,
+      "battles": 1764,
+      "winrate": 49.82993197278912,
       "avgDmg": 945,
       "topSpg": {
         "name": "M53/M55",
@@ -760,8 +760,8 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4719,
-      "winrate": 49.29010383555838,
+      "battles": 4721,
+      "winrate": 49.29040457530184,
       "avgDmg": 994,
       "topSpg": {
         "name": "G.W. Panther",
