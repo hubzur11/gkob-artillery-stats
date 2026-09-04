@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T14:45:44.577Z",
+  "lastUpdated": "2026-09-04T18:03:22.838Z",
   "dailyDate": "2026-09-04",
   "monthlyDate": "2026-09",
   "daily": {
@@ -604,8 +604,8 @@
       "id": 543904952,
       "name": "G3N3R0X",
       "role_i18n": "Szer.",
-      "battles": 1614,
-      "winrate": 49.380421313506815,
+      "battles": 1617,
+      "winrate": 49.35064935064935,
       "avgDmg": 1198,
       "topSpg": {
         "name": "T92 HMC",
@@ -760,8 +760,8 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4721,
-      "winrate": 49.29040457530184,
+      "battles": 4729,
+      "winrate": 49.270458870797206,
       "avgDmg": 994,
       "topSpg": {
         "name": "G.W. Panther",
