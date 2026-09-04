@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T18:03:22.838Z",
+  "lastUpdated": "2026-09-04T21:13:04.680Z",
   "dailyDate": "2026-09-04",
   "monthlyDate": "2026-09",
   "daily": {
@@ -604,9 +604,9 @@
       "id": 543904952,
       "name": "G3N3R0X",
       "role_i18n": "Szer.",
-      "battles": 1617,
-      "winrate": 49.35064935064935,
-      "avgDmg": 1198,
+      "battles": 1619,
+      "winrate": 49.351451513279805,
+      "avgDmg": 1199,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
@@ -1428,14 +1428,10 @@
       "id": 543726589,
       "name": "Przemek0299",
       "role_i18n": "Szer.",
-      "battles": 807,
-      "winrate": 48.3271375464684,
-      "avgDmg": 710,
-      "topSpg": {
-        "name": "AMX 13 F3",
-        "tier": 6,
-        "battles": 130
-      }
+      "battles": 0,
+      "winrate": 0,
+      "avgDmg": 0,
+      "topSpg": null
     },
     {
       "id": 720440831,
