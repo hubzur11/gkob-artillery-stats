@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T21:13:04.680Z",
+  "lastUpdated": "2026-09-04T23:41:16.829Z",
   "dailyDate": "2026-09-04",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1428,10 +1428,14 @@
       "id": 543726589,
       "name": "Przemek0299",
       "role_i18n": "Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 807,
+      "winrate": 48.3271375464684,
+      "avgDmg": 710,
+      "topSpg": {
+        "name": "AMX 13 F3",
+        "tier": 6,
+        "battles": 130
+      }
     },
     {
       "id": 720440831,
