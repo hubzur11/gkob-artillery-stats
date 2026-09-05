@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T14:30:24.774Z",
+  "lastUpdated": "2026-09-05T17:07:04.096Z",
   "dailyDate": "2026-09-05",
   "monthlyDate": "2026-09",
   "daily": {
@@ -348,9 +348,9 @@
       "id": 542241836,
       "name": "wombat__maly",
       "role_i18n": "Oficer bojowy",
-      "battles": 1511,
-      "winrate": 47.849106551952346,
-      "avgDmg": 804,
+      "battles": 1513,
+      "winrate": 47.85194976867152,
+      "avgDmg": 805,
       "topSpg": {
         "name": "Bishop",
         "tier": 5,
@@ -630,13 +630,13 @@
       "id": 506685964,
       "name": "patijass",
       "role_i18n": "Oficer bojowy",
-      "battles": 3146,
-      "winrate": 47.64780673871583,
-      "avgDmg": 744,
+      "battles": 3155,
+      "winrate": 47.638668779714735,
+      "avgDmg": 745,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 294
+        "battles": 296
       }
     },
     {
@@ -1146,8 +1146,8 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5342,
-      "winrate": 48.76450767502808,
+      "battles": 5343,
+      "winrate": 48.77409694927943,
       "avgDmg": 876,
       "topSpg": {
         "name": "Conqueror GC",
