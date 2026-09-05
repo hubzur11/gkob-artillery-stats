@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T07:22:16.095Z",
+  "lastUpdated": "2026-09-05T11:35:48.973Z",
   "dailyDate": "2026-09-05",
   "monthlyDate": "2026-09",
   "daily": {
@@ -348,8 +348,8 @@
       "id": 542241836,
       "name": "wombat__maly",
       "role_i18n": "Oficer bojowy",
-      "battles": 1503,
-      "winrate": 47.70459081836327,
+      "battles": 1510,
+      "winrate": 47.81456953642384,
       "avgDmg": 804,
       "topSpg": {
         "name": "Bishop",
@@ -1224,13 +1224,13 @@
       "id": 542000050,
       "name": "komikacz69",
       "role_i18n": "Szer.",
-      "battles": 2078,
-      "winrate": 52.02117420596728,
-      "avgDmg": 995,
+      "battles": 2082,
+      "winrate": 52.06532180595581,
+      "avgDmg": 997,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 477
+        "battles": 481
       }
     },
     {
