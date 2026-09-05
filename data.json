@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T19:52:53.773Z",
+  "lastUpdated": "2026-09-05T21:53:46.744Z",
   "dailyDate": "2026-09-05",
   "monthlyDate": "2026-09",
   "daily": {
@@ -604,9 +604,9 @@
       "id": 543904952,
       "name": "G3N3R0X",
       "role_i18n": "Szer.",
-      "battles": 1619,
-      "winrate": 49.351451513279805,
-      "avgDmg": 1199,
+      "battles": 1624,
+      "winrate": 49.32266009852217,
+      "avgDmg": 1201,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
