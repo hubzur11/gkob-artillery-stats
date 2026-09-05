@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T17:07:04.096Z",
+  "lastUpdated": "2026-09-05T19:52:53.773Z",
   "dailyDate": "2026-09-05",
   "monthlyDate": "2026-09",
   "daily": {
@@ -630,8 +630,8 @@
       "id": 506685964,
       "name": "patijass",
       "role_i18n": "Oficer bojowy",
-      "battles": 3155,
-      "winrate": 47.638668779714735,
+      "battles": 3166,
+      "winrate": 47.59949463044851,
       "avgDmg": 745,
       "topSpg": {
         "name": "Obj. 261",
@@ -656,9 +656,9 @@
       "id": 519015115,
       "name": "EnDi_CoronaSwirus",
       "role_i18n": "Szer.",
-      "battles": 1764,
-      "winrate": 49.82993197278912,
-      "avgDmg": 945,
+      "battles": 1765,
+      "winrate": 49.801699716713884,
+      "avgDmg": 944,
       "topSpg": {
         "name": "M53/M55",
         "tier": 9,
