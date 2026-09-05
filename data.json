@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T11:35:48.973Z",
+  "lastUpdated": "2026-09-05T14:30:24.774Z",
   "dailyDate": "2026-09-05",
   "monthlyDate": "2026-09",
   "daily": {
@@ -348,8 +348,8 @@
       "id": 542241836,
       "name": "wombat__maly",
       "role_i18n": "Oficer bojowy",
-      "battles": 1510,
-      "winrate": 47.81456953642384,
+      "battles": 1511,
+      "winrate": 47.849106551952346,
       "avgDmg": 804,
       "topSpg": {
         "name": "Bishop",
