@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T17:29:59.485Z",
+  "lastUpdated": "2026-09-06T19:57:34.370Z",
   "dailyDate": "2026-09-06",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1042,8 +1042,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21565,
-      "winrate": 51.67632738233249,
+      "battles": 21566,
+      "winrate": 51.67393118798108,
       "avgDmg": 1215,
       "topSpg": {
         "name": "FV3805",
