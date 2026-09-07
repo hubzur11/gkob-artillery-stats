@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T07:52:54.399Z",
+  "lastUpdated": "2026-09-07T13:56:39.269Z",
   "dailyDate": "2026-09-07",
   "monthlyDate": "2026-09",
   "daily": {
@@ -346,8 +346,8 @@
       "id": 542241836,
       "name": "wombat__maly",
       "role_i18n": "Oficer bojowy",
-      "battles": 1513,
-      "winrate": 47.85194976867152,
+      "battles": 1514,
+      "winrate": 47.82034346103038,
       "avgDmg": 805,
       "topSpg": {
         "name": "Bishop",
@@ -654,8 +654,8 @@
       "id": 519015115,
       "name": "EnDi_CoronaSwirus",
       "role_i18n": "Szer.",
-      "battles": 1766,
-      "winrate": 49.830124575311444,
+      "battles": 1767,
+      "winrate": 49.80192416525184,
       "avgDmg": 944,
       "topSpg": {
         "name": "M53/M55",
@@ -719,9 +719,9 @@
       "id": 561048292,
       "name": "pandziakuba",
       "role_i18n": "Rekrut",
-      "battles": 683,
-      "winrate": 47.2913616398243,
-      "avgDmg": 685,
+      "battles": 684,
+      "winrate": 47.22222222222222,
+      "avgDmg": 686,
       "topSpg": {
         "name": "M53/M55",
         "tier": 9,
