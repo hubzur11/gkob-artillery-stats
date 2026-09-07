@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T02:40:38.804Z",
+  "lastUpdated": "2026-09-07T07:52:54.399Z",
   "dailyDate": "2026-09-07",
   "monthlyDate": "2026-09",
   "daily": {
@@ -333,9 +333,9 @@
       "id": 569791016,
       "name": "xd_Nje",
       "role_i18n": "Rekrut",
-      "battles": 430,
-      "winrate": 47.44186046511628,
-      "avgDmg": 993,
+      "battles": 433,
+      "winrate": 47.34411085450346,
+      "avgDmg": 1000,
       "topSpg": {
         "name": "M40/M43",
         "tier": 8,
