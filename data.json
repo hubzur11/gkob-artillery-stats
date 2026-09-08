@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T13:17:30.503Z",
+  "lastUpdated": "2026-09-08T17:44:16.435Z",
   "dailyDate": "2026-09-08",
   "monthlyDate": "2026-09",
   "daily": {
@@ -424,8 +424,8 @@
       "id": 532040259,
       "name": "LivingDaylights",
       "role_i18n": "Rekrut",
-      "battles": 5199,
-      "winrate": 51.5868436237738,
+      "battles": 5201,
+      "winrate": 51.56700634493367,
       "avgDmg": 1223,
       "topSpg": {
         "name": "B-C 155 58",
@@ -1339,12 +1339,12 @@
       "id": 580224482,
       "name": "Marcelsiq",
       "role_i18n": "Szer.",
-      "battles": 262,
-      "winrate": 43.51145038167939,
-      "avgDmg": 867,
+      "battles": 263,
+      "winrate": 43.72623574144487,
+      "avgDmg": 865,
       "topSpg": {
-        "name": "SU-14-2",
-        "tier": 8,
+        "name": "212A",
+        "tier": 9,
         "battles": 83
       }
     },
