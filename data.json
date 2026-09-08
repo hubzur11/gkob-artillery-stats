@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:44:16.435Z",
+  "lastUpdated": "2026-09-08T20:40:12.060Z",
   "dailyDate": "2026-09-08",
   "monthlyDate": "2026-09",
   "daily": {
@@ -424,8 +424,8 @@
       "id": 532040259,
       "name": "LivingDaylights",
       "role_i18n": "Rekrut",
-      "battles": 5201,
-      "winrate": 51.56700634493367,
+      "battles": 5202,
+      "winrate": 51.57631680123029,
       "avgDmg": 1223,
       "topSpg": {
         "name": "B-C 155 58",
@@ -1001,8 +1001,8 @@
       "id": 516765532,
       "name": "SPA101",
       "role_i18n": "Rekrut",
-      "battles": 1816,
-      "winrate": 49.284140969163,
+      "battles": 1817,
+      "winrate": 49.312052834342325,
       "avgDmg": 736,
       "topSpg": {
         "name": "G.W. Tiger P",
@@ -1144,8 +1144,8 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5345,
-      "winrate": 48.77455565949486,
+      "battles": 5346,
+      "winrate": 48.784137673026564,
       "avgDmg": 877,
       "topSpg": {
         "name": "Conqueror GC",
