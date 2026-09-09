@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T12:42:43.570Z",
+  "lastUpdated": "2026-09-09T17:01:20.077Z",
   "dailyDate": "2026-09-09",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1326,8 +1326,8 @@
       "id": 505811922,
       "name": "_Pif_Paf1978",
       "role_i18n": "Szer.",
-      "battles": 6757,
-      "winrate": 49.57821518425337,
+      "battles": 6758,
+      "winrate": 49.57087895827168,
       "avgDmg": 1315,
       "topSpg": {
         "name": "T92 HMC",
@@ -1413,9 +1413,9 @@
       "id": 543726589,
       "name": "Przemek0299",
       "role_i18n": "Szer.",
-      "battles": 807,
-      "winrate": 48.3271375464684,
-      "avgDmg": 710,
+      "battles": 808,
+      "winrate": 48.26732673267327,
+      "avgDmg": 709,
       "topSpg": {
         "name": "AMX 13 F3",
         "tier": 6,
