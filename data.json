@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T21:23:04.907Z",
+  "lastUpdated": "2026-09-10T23:41:31.050Z",
   "dailyDate": "2026-09-10",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1129,8 +1129,8 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5351,
-      "winrate": 48.75724163707718,
+      "battles": 5352,
+      "winrate": 48.76681614349776,
       "avgDmg": 877,
       "topSpg": {
         "name": "Conqueror GC",
@@ -1298,8 +1298,8 @@
       "id": 507762126,
       "name": "deo100",
       "role_i18n": "Młodszy oficer",
-      "battles": 3913,
-      "winrate": 49.96166624073601,
+      "battles": 3917,
+      "winrate": 49.93617564462599,
       "avgDmg": 881,
       "topSpg": {
         "name": "AMX 13 F3",
