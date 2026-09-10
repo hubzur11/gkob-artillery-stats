@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:03:35.557Z",
+  "lastUpdated": "2026-09-10T21:23:04.907Z",
   "dailyDate": "2026-09-10",
   "monthlyDate": "2026-09",
   "daily": {
@@ -730,13 +730,13 @@
       "id": 501678825,
       "name": "BREZNIEV",
       "role_i18n": "Rezerwista",
-      "battles": 2543,
-      "winrate": 49.15454187966969,
-      "avgDmg": 1307,
+      "battles": 2545,
+      "winrate": 49.115913555992144,
+      "avgDmg": 1306,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 930
+        "battles": 932
       }
     },
     {
@@ -1298,8 +1298,8 @@
       "id": 507762126,
       "name": "deo100",
       "role_i18n": "Młodszy oficer",
-      "battles": 3911,
-      "winrate": 49.961646637688574,
+      "battles": 3913,
+      "winrate": 49.96166624073601,
       "avgDmg": 881,
       "topSpg": {
         "name": "AMX 13 F3",
