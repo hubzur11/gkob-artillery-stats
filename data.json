@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T16:43:55.340Z",
+  "lastUpdated": "2026-09-12T18:55:51.524Z",
   "dailyDate": "2026-09-12",
   "monthlyDate": "2026-09",
   "daily": {
@@ -422,13 +422,13 @@
       "id": 532040259,
       "name": "LivingDaylights",
       "role_i18n": "Rekrut",
-      "battles": 5205,
-      "winrate": 51.604226705091264,
+      "battles": 5209,
+      "winrate": 51.64138990209253,
       "avgDmg": 1223,
       "topSpg": {
         "name": "B-C 155 58",
         "tier": 10,
-        "battles": 1051
+        "battles": 1053
       }
     },
     {
