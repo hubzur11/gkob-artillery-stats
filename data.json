@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T17:13:49.242Z",
+  "lastUpdated": "2026-09-13T20:15:09.537Z",
   "dailyDate": "2026-09-13",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1037,7 +1037,7 @@
     {
       "id": 511262566,
       "name": "Tanku_0806",
-      "role_i18n": "Rezerwista",
+      "role_i18n": "Oficer bojowy",
       "battles": 561,
       "winrate": 47.23707664884135,
       "avgDmg": 673,
