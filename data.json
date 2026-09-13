@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T13:11:58.466Z",
+  "lastUpdated": "2026-09-13T17:13:49.242Z",
   "dailyDate": "2026-09-13",
   "monthlyDate": "2026-09",
   "daily": {
@@ -422,8 +422,8 @@
       "id": 532040259,
       "name": "LivingDaylights",
       "role_i18n": "Rekrut",
-      "battles": 5210,
-      "winrate": 51.65067178502879,
+      "battles": 5215,
+      "winrate": 51.63950143815915,
       "avgDmg": 1224,
       "topSpg": {
         "name": "B-C 155 58",
@@ -704,9 +704,9 @@
       "id": 524718307,
       "name": "Alpah051",
       "role_i18n": "Szer.",
-      "battles": 1116,
-      "winrate": 48.11827956989247,
-      "avgDmg": 643,
+      "battles": 1118,
+      "winrate": 48.1216457960644,
+      "avgDmg": 645,
       "topSpg": {
         "name": "M40/M43",
         "tier": 8,
@@ -1385,9 +1385,9 @@
       "id": 502567417,
       "name": "marekel1",
       "role_i18n": "Szer.",
-      "battles": 7185,
-      "winrate": 52.59568545581072,
-      "avgDmg": 1549,
+      "battles": 7189,
+      "winrate": 52.608151342328554,
+      "avgDmg": 1548,
       "topSpg": {
         "name": "Conqueror GC",
         "tier": 10,
