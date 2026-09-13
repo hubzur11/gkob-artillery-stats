@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T07:58:40.898Z",
+  "lastUpdated": "2026-09-13T13:11:58.466Z",
   "dailyDate": "2026-09-13",
   "monthlyDate": "2026-09",
   "daily": {
@@ -370,9 +370,9 @@
       "id": 507931190,
       "name": "youri1981",
       "role_i18n": "Rezerwista",
-      "battles": 5143,
-      "winrate": 54.83181022749368,
-      "avgDmg": 1554,
+      "battles": 5146,
+      "winrate": 54.83870967741935,
+      "avgDmg": 1553,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
@@ -1385,8 +1385,8 @@
       "id": 502567417,
       "name": "marekel1",
       "role_i18n": "Szer.",
-      "battles": 7183,
-      "winrate": 52.59640818599471,
+      "battles": 7185,
+      "winrate": 52.59568545581072,
       "avgDmg": 1549,
       "topSpg": {
         "name": "Conqueror GC",
