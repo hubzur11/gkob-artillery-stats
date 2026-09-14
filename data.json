@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T17:35:33.123Z",
+  "lastUpdated": "2026-09-14T21:24:32.626Z",
   "dailyDate": "2026-09-14",
   "monthlyDate": "2026-09",
   "daily": {
@@ -734,13 +734,13 @@
       "id": 501678825,
       "name": "BREZNIEV",
       "role_i18n": "Rezerwista",
-      "battles": 2545,
-      "winrate": 49.115913555992144,
-      "avgDmg": 1306,
+      "battles": 2546,
+      "winrate": 49.096622152395916,
+      "avgDmg": 1307,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 932
+        "battles": 933
       }
     },
     {
@@ -1415,13 +1415,13 @@
       "id": 521214458,
       "name": "Varmond02",
       "role_i18n": "Rekrut",
-      "battles": 2047,
-      "winrate": 50.70835368832438,
+      "battles": 2048,
+      "winrate": 50.732421875,
       "avgDmg": 1089,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 403
+        "battles": 404
       }
     },
     {
