@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T05:44:34.128Z",
+  "lastUpdated": "2026-09-14T11:40:29.630Z",
   "dailyDate": "2026-09-14",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1311,8 +1311,8 @@
       "id": 505811922,
       "name": "_Pif_Paf1978",
       "role_i18n": "Szer.",
-      "battles": 6758,
-      "winrate": 49.57087895827168,
+      "battles": 6759,
+      "winrate": 49.57833999112295,
       "avgDmg": 1315,
       "topSpg": {
         "name": "T92 HMC",
