@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T19:30:13.459Z",
+  "lastUpdated": "2026-09-15T22:42:09.169Z",
   "dailyDate": "2026-09-15",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1211,13 +1211,13 @@
       "id": 542000050,
       "name": "komikacz69",
       "role_i18n": "Szer.",
-      "battles": 2082,
-      "winrate": 52.06532180595581,
-      "avgDmg": 997,
+      "battles": 2083,
+      "winrate": 52.04032645223236,
+      "avgDmg": 998,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 481
+        "battles": 482
       }
     },
     {
@@ -1341,13 +1341,13 @@
       "id": 580224482,
       "name": "Marcelsiq",
       "role_i18n": "Szer.",
-      "battles": 266,
-      "winrate": 43.984962406015036,
+      "battles": 267,
+      "winrate": 44.19475655430712,
       "avgDmg": 868,
       "topSpg": {
         "name": "212A",
         "tier": 9,
-        "battles": 86
+        "battles": 87
       }
     },
     {
