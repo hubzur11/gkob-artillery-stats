@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T15:30:29.859Z",
+  "lastUpdated": "2026-09-15T19:30:13.459Z",
   "dailyDate": "2026-09-15",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1402,8 +1402,8 @@
       "id": 502567417,
       "name": "marekel1",
       "role_i18n": "Szer.",
-      "battles": 7189,
-      "winrate": 52.608151342328554,
+      "battles": 7190,
+      "winrate": 52.61474269819193,
       "avgDmg": 1548,
       "topSpg": {
         "name": "Conqueror GC",
