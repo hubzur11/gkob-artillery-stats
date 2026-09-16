@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T13:04:45.103Z",
+  "lastUpdated": "2026-09-16T17:56:49.172Z",
   "dailyDate": "2026-09-16",
   "monthlyDate": "2026-09",
   "daily": {
@@ -708,9 +708,9 @@
       "id": 524718307,
       "name": "Alpah051",
       "role_i18n": "Szer.",
-      "battles": 1118,
-      "winrate": 48.1216457960644,
-      "avgDmg": 645,
+      "battles": 1119,
+      "winrate": 48.078641644325295,
+      "avgDmg": 646,
       "topSpg": {
         "name": "M40/M43",
         "tier": 8,
