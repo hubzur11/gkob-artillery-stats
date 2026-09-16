@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T20:52:04.788Z",
+  "lastUpdated": "2026-09-16T23:31:24.970Z",
   "dailyDate": "2026-09-16",
   "monthlyDate": "2026-09",
   "daily": {
@@ -454,9 +454,9 @@
       "id": 525520969,
       "name": "___BANDZIOR___",
       "role_i18n": "Szer.",
-      "battles": 1018,
-      "winrate": 48.42829076620826,
-      "avgDmg": 1027,
+      "battles": 1019,
+      "winrate": 48.47890088321884,
+      "avgDmg": 1028,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
@@ -645,13 +645,13 @@
       "id": 506685964,
       "name": "patijass",
       "role_i18n": "Oficer bojowy",
-      "battles": 3166,
-      "winrate": 47.59949463044851,
+      "battles": 3167,
+      "winrate": 47.616040416798235,
       "avgDmg": 745,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 296
+        "battles": 297
       }
     },
     {
