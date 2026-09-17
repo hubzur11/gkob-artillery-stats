@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T03:12:49.741Z",
+  "lastUpdated": "2026-09-17T09:09:57.979Z",
   "dailyDate": "2026-09-17",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1226,13 +1226,13 @@
       "id": 542000050,
       "name": "komikacz69",
       "role_i18n": "Szer.",
-      "battles": 2083,
-      "winrate": 52.04032645223236,
+      "battles": 2084,
+      "winrate": 52.063339731285986,
       "avgDmg": 998,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 482
+        "battles": 483
       }
     },
     {
