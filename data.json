@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T14:39:03.238Z",
+  "lastUpdated": "2026-09-17T18:47:32.345Z",
   "dailyDate": "2026-09-17",
   "monthlyDate": "2026-09",
   "daily": {
@@ -801,9 +801,9 @@
       "id": 523478269,
       "name": "FragForGlory",
       "role_i18n": "Rekrut",
-      "battles": 890,
-      "winrate": 51.23595505617977,
-      "avgDmg": 961,
+      "battles": 891,
+      "winrate": 51.178451178451176,
+      "avgDmg": 962,
       "topSpg": {
         "name": "M53/M55",
         "tier": 9,
@@ -1343,8 +1343,8 @@
       "id": 505811922,
       "name": "_Pif_Paf1978",
       "role_i18n": "Szer.",
-      "battles": 6759,
-      "winrate": 49.57833999112295,
+      "battles": 6760,
+      "winrate": 49.58579881656805,
       "avgDmg": 1315,
       "topSpg": {
         "name": "T92 HMC",
