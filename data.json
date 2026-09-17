@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T09:09:57.979Z",
+  "lastUpdated": "2026-09-17T14:39:03.238Z",
   "dailyDate": "2026-09-17",
   "monthlyDate": "2026-09",
   "daily": {
@@ -454,13 +454,13 @@
       "id": 525520969,
       "name": "___BANDZIOR___",
       "role_i18n": "Szer.",
-      "battles": 1019,
-      "winrate": 48.47890088321884,
+      "battles": 1023,
+      "winrate": 48.484848484848484,
       "avgDmg": 1028,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
-        "battles": 308
+        "battles": 309
       }
     },
     {
@@ -1056,7 +1056,7 @@
     {
       "id": 511262566,
       "name": "Tanku_0806",
-      "role_i18n": "Oficer bojowy",
+      "role_i18n": "Szer.",
       "battles": 561,
       "winrate": 47.23707664884135,
       "avgDmg": 673,
