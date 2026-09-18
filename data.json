@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T20:20:52.596Z",
+  "lastUpdated": "2026-09-18T23:00:10.589Z",
   "dailyDate": "2026-09-18",
   "monthlyDate": "2026-09",
   "daily": {
@@ -944,14 +944,10 @@
       "id": 568450865,
       "name": "POSOWACZ",
       "role_i18n": "Rekrut",
-      "battles": 230,
-      "winrate": 49.130434782608695,
-      "avgDmg": 1321,
-      "topSpg": {
-        "name": "Conqueror GC",
-        "tier": 10,
-        "battles": 132
-      }
+      "battles": 0,
+      "winrate": 0,
+      "avgDmg": 0,
+      "topSpg": null
     },
     {
       "id": 503424315,
