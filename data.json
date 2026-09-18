@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T17:27:51.435Z",
+  "lastUpdated": "2026-09-18T20:20:52.596Z",
   "dailyDate": "2026-09-18",
   "monthlyDate": "2026-09",
   "daily": {
@@ -337,8 +337,8 @@
       "id": 569791016,
       "name": "xd_Nje",
       "role_i18n": "Szer.",
-      "battles": 433,
-      "winrate": 47.34411085450346,
+      "battles": 434,
+      "winrate": 47.235023041474655,
       "avgDmg": 1000,
       "topSpg": {
         "name": "M40/M43",
@@ -982,7 +982,7 @@
     {
       "id": 546702146,
       "name": "Kapciock94",
-      "role_i18n": "Szer.",
+      "role_i18n": "Oficer bojowy",
       "battles": 51,
       "winrate": 50.98039215686274,
       "avgDmg": 529,
