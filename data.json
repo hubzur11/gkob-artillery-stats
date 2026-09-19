@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T15:17:34.235Z",
+  "lastUpdated": "2026-09-19T18:23:44.649Z",
   "dailyDate": "2026-09-19",
   "monthlyDate": "2026-09",
   "daily": {
@@ -310,7 +310,7 @@
     {
       "id": 676109338,
       "name": "N0RW3G",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 279,
       "winrate": 60.93189964157706,
       "avgDmg": 1255,
@@ -414,7 +414,7 @@
     {
       "id": 505285183,
       "name": "green_warriorr",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 1151,
       "winrate": 48.566463944396176,
       "avgDmg": 1057,
@@ -527,7 +527,7 @@
     {
       "id": 580970642,
       "name": "PABLITTO_pk",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 269,
       "winrate": 47.58364312267658,
       "avgDmg": 826,
@@ -579,7 +579,7 @@
     {
       "id": 509401781,
       "name": "DzikiSzynszyl",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 1169,
       "winrate": 51.15483319076134,
       "avgDmg": 770,
@@ -943,7 +943,7 @@
     {
       "id": 568450865,
       "name": "POSOWACZ",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 230,
       "winrate": 49.130434782608695,
       "avgDmg": 1321,
@@ -1004,7 +1004,7 @@
     {
       "id": 516765532,
       "name": "SPA101",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 1817,
       "winrate": 49.312052834342325,
       "avgDmg": 736,
@@ -1109,8 +1109,8 @@
       "id": 528775028,
       "name": "zati31",
       "role_i18n": "Szer.",
-      "battles": 1319,
-      "winrate": 51.09931766489765,
+      "battles": 1321,
+      "winrate": 51.02195306585919,
       "avgDmg": 679,
       "topSpg": {
         "name": "M44",
@@ -1238,7 +1238,7 @@
     {
       "id": 540231095,
       "name": "VivimorteSTEEL",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 1354,
       "winrate": 49.556868537666176,
       "avgDmg": 1079,
@@ -1429,9 +1429,9 @@
     {
       "id": 521214458,
       "name": "Varmond02",
-      "role_i18n": "Rekrut",
-      "battles": 2048,
-      "winrate": 50.732421875,
+      "role_i18n": "Rezerwista",
+      "battles": 2049,
+      "winrate": 50.75646656905808,
       "avgDmg": 1089,
       "topSpg": {
         "name": "Obj. 261",
