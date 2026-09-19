@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T18:23:44.649Z",
+  "lastUpdated": "2026-09-19T21:16:09.556Z",
   "dailyDate": "2026-09-19",
   "monthlyDate": "2026-09",
   "daily": {
@@ -51,6 +51,7 @@
     "513029254": 2435,
     "514265529": 169,
     "514702739": 3332,
+    "516538348": 1864,
     "516765532": 1817,
     "518289414": 1652,
     "519015115": 1769,
@@ -151,6 +152,7 @@
     "513029254": 2435,
     "514265529": 169,
     "514702739": 3332,
+    "516538348": 1864,
     "516765532": 1815,
     "518289414": 1652,
     "519015115": 1758,
@@ -605,7 +607,7 @@
     {
       "id": 504522697,
       "name": "bialy199623",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 2345,
       "winrate": 47.0362473347548,
       "avgDmg": 842,
@@ -800,7 +802,7 @@
     {
       "id": 523478269,
       "name": "FragForGlory",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 891,
       "winrate": 51.178451178451176,
       "avgDmg": 962,
@@ -1083,13 +1085,13 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12445,
-      "winrate": 56.2474889513861,
+      "battles": 12446,
+      "winrate": 56.2429696287964,
       "avgDmg": 1465,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 5691
+        "battles": 5692
       }
     },
     {
@@ -1109,8 +1111,8 @@
       "id": 528775028,
       "name": "zati31",
       "role_i18n": "Szer.",
-      "battles": 1321,
-      "winrate": 51.02195306585919,
+      "battles": 1325,
+      "winrate": 51.094339622641506,
       "avgDmg": 679,
       "topSpg": {
         "name": "M44",
@@ -1389,6 +1391,19 @@
         "name": "S-51",
         "tier": 7,
         "battles": 42
+      }
+    },
+    {
+      "id": 516538348,
+      "name": "_SKAJU_The_White_Wolf_",
+      "role_i18n": "Rekrut",
+      "battles": 1864,
+      "winrate": 52.95064377682404,
+      "avgDmg": 929,
+      "topSpg": {
+        "name": "G.W. Panther",
+        "tier": 7,
+        "battles": 237
       }
     },
     {
