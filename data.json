@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T11:52:11.299Z",
+  "lastUpdated": "2026-09-19T15:17:34.235Z",
   "dailyDate": "2026-09-19",
   "monthlyDate": "2026-09",
   "daily": {
@@ -428,13 +428,13 @@
       "id": 532040259,
       "name": "LivingDaylights",
       "role_i18n": "Szer.",
-      "battles": 5215,
-      "winrate": 51.63950143815915,
+      "battles": 5217,
+      "winrate": 51.63887291546866,
       "avgDmg": 1224,
       "topSpg": {
         "name": "B-C 155 58",
         "tier": 10,
-        "battles": 1053
+        "battles": 1054
       }
     },
     {
@@ -1148,13 +1148,13 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5354,
-      "winrate": 48.76727680239073,
-      "avgDmg": 877,
+      "battles": 5359,
+      "winrate": 48.79641724202276,
+      "avgDmg": 878,
       "topSpg": {
         "name": "Conqueror GC",
         "tier": 10,
-        "battles": 680
+        "battles": 681
       }
     },
     {
