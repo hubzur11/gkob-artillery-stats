@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T06:59:22.198Z",
+  "lastUpdated": "2026-09-19T11:52:11.299Z",
   "dailyDate": "2026-09-19",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1109,8 +1109,8 @@
       "id": 528775028,
       "name": "zati31",
       "role_i18n": "Szer.",
-      "battles": 1318,
-      "winrate": 51.138088012139605,
+      "battles": 1319,
+      "winrate": 51.09931766489765,
       "avgDmg": 679,
       "topSpg": {
         "name": "M44",
@@ -1148,8 +1148,8 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5353,
-      "winrate": 48.77638707266953,
+      "battles": 5354,
+      "winrate": 48.76727680239073,
       "avgDmg": 877,
       "topSpg": {
         "name": "Conqueror GC",
