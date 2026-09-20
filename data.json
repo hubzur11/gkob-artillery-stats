@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T17:17:16.333Z",
+  "lastUpdated": "2026-09-20T20:16:02.393Z",
   "dailyDate": "2026-09-20",
   "monthlyDate": "2026-09",
   "daily": {
@@ -337,9 +337,9 @@
       "id": 569791016,
       "name": "xd_Nje",
       "role_i18n": "Szer.",
-      "battles": 438,
-      "winrate": 47.03196347031963,
-      "avgDmg": 1005,
+      "battles": 441,
+      "winrate": 47.16553287981859,
+      "avgDmg": 1013,
       "topSpg": {
         "name": "M40/M43",
         "tier": 8,
@@ -1070,13 +1070,13 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12446,
-      "winrate": 56.2429696287964,
+      "battles": 12447,
+      "winrate": 56.246485096810474,
       "avgDmg": 1465,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 5692
+        "battles": 5693
       }
     },
     {
@@ -1430,13 +1430,13 @@
       "id": 521214458,
       "name": "Varmond02",
       "role_i18n": "Rezerwista",
-      "battles": 2054,
-      "winrate": 50.730282375852,
-      "avgDmg": 1090,
+      "battles": 2057,
+      "winrate": 50.753524550316,
+      "avgDmg": 1091,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 408
+        "battles": 411
       }
     },
     {
