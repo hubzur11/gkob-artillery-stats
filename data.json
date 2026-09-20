@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T09:02:11.380Z",
+  "lastUpdated": "2026-09-20T13:55:22.452Z",
   "dailyDate": "2026-09-20",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1018,8 +1018,8 @@
       "id": 545984353,
       "name": "kamis90",
       "role_i18n": "Szer.",
-      "battles": 2420,
-      "winrate": 50.53719008264462,
+      "battles": 2421,
+      "winrate": 50.55762081784386,
       "avgDmg": 1229,
       "topSpg": {
         "name": "G.W. E 100",
@@ -1417,8 +1417,8 @@
       "id": 502567417,
       "name": "marekel1",
       "role_i18n": "Szer.",
-      "battles": 7190,
-      "winrate": 52.61474269819193,
+      "battles": 7192,
+      "winrate": 52.600111234705224,
       "avgDmg": 1548,
       "topSpg": {
         "name": "Conqueror GC",
