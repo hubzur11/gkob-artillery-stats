@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T13:55:22.452Z",
+  "lastUpdated": "2026-09-20T17:17:16.333Z",
   "dailyDate": "2026-09-20",
   "monthlyDate": "2026-09",
   "daily": {
@@ -337,8 +337,8 @@
       "id": 569791016,
       "name": "xd_Nje",
       "role_i18n": "Szer.",
-      "battles": 436,
-      "winrate": 47.018348623853214,
+      "battles": 438,
+      "winrate": 47.03196347031963,
       "avgDmg": 1005,
       "topSpg": {
         "name": "M40/M43",
@@ -1005,13 +1005,13 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3030,
-      "winrate": 52.4092409240924,
-      "avgDmg": 1380,
+      "battles": 3031,
+      "winrate": 52.39194985153415,
+      "avgDmg": 1381,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
-        "battles": 566
+        "battles": 567
       }
     },
     {
@@ -1096,8 +1096,8 @@
       "id": 528775028,
       "name": "zati31",
       "role_i18n": "Szer.",
-      "battles": 1325,
-      "winrate": 51.094339622641506,
+      "battles": 1327,
+      "winrate": 51.16804822908817,
       "avgDmg": 679,
       "topSpg": {
         "name": "M44",
@@ -1430,13 +1430,13 @@
       "id": 521214458,
       "name": "Varmond02",
       "role_i18n": "Rezerwista",
-      "battles": 2049,
-      "winrate": 50.75646656905808,
-      "avgDmg": 1089,
+      "battles": 2054,
+      "winrate": 50.730282375852,
+      "avgDmg": 1090,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 404
+        "battles": 408
       }
     },
     {
