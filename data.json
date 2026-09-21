@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T11:53:57.458Z",
+  "lastUpdated": "2026-09-21T17:48:16.321Z",
   "dailyDate": "2026-09-21",
   "monthlyDate": "2026-09",
   "daily": {
@@ -39,7 +39,6 @@
     "508316461": 1359,
     "508521475": 1652,
     "509343868": 3737,
-    "509401781": 1169,
     "509430191": 1972,
     "509568258": 434,
     "509860088": 4729,
@@ -140,7 +139,6 @@
     "508316461": 1359,
     "508521475": 1652,
     "509343868": 3737,
-    "509401781": 1169,
     "509430191": 1952,
     "509568258": 434,
     "509860088": 4701,
@@ -503,7 +501,7 @@
     {
       "id": 510813830,
       "name": "XaweryX1212",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 3885,
       "winrate": 46.975546975546976,
       "avgDmg": 641,
@@ -579,19 +577,6 @@
       }
     },
     {
-      "id": 509401781,
-      "name": "DzikiSzynszyl",
-      "role_i18n": "Rezerwista",
-      "battles": 1169,
-      "winrate": 51.15483319076134,
-      "avgDmg": 770,
-      "topSpg": {
-        "name": "M12",
-        "tier": 7,
-        "battles": 322
-      }
-    },
-    {
       "id": 566402742,
       "name": "Havieron",
       "role_i18n": "Szer.",
@@ -660,8 +645,8 @@
       "id": 519015115,
       "name": "EnDi_CoronaSwirus",
       "role_i18n": "Szer.",
-      "battles": 1769,
-      "winrate": 49.85867721876767,
+      "battles": 1770,
+      "winrate": 49.887005649717516,
       "avgDmg": 945,
       "topSpg": {
         "name": "M53/M55",
@@ -1085,13 +1070,13 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12447,
-      "winrate": 56.246485096810474,
+      "battles": 12448,
+      "winrate": 56.25,
       "avgDmg": 1465,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 5693
+        "battles": 5694
       }
     },
     {
