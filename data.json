@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T15:24:35.111Z",
+  "lastUpdated": "2026-09-22T19:33:17.674Z",
   "dailyDate": "2026-09-22",
   "monthlyDate": "2026-09",
   "daily": {
@@ -732,8 +732,8 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4741,
-      "winrate": 49.35667580679181,
+      "battles": 4744,
+      "winrate": 49.325463743676224,
       "avgDmg": 994,
       "topSpg": {
         "name": "G.W. Panther",
@@ -1092,9 +1092,9 @@
       "id": 528775028,
       "name": "zati31",
       "role_i18n": "Szer.",
-      "battles": 1328,
-      "winrate": 51.12951807228916,
-      "avgDmg": 679,
+      "battles": 1331,
+      "winrate": 51.16453794139745,
+      "avgDmg": 681,
       "topSpg": {
         "name": "M44",
         "tier": 6,
@@ -1116,7 +1116,7 @@
     },
     {
       "id": 692267389,
-      "name": "McAlkoReksio",
+      "name": "reksiov2",
       "role_i18n": "Oficer rekrutacyjny",
       "battles": 20,
       "winrate": 50,
