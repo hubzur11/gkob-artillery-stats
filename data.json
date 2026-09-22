@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T10:54:34.922Z",
+  "lastUpdated": "2026-09-22T15:24:35.111Z",
   "dailyDate": "2026-09-22",
   "monthlyDate": "2026-09",
   "daily": {
@@ -732,8 +732,8 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4736,
-      "winrate": 49.30320945945946,
+      "battles": 4741,
+      "winrate": 49.35667580679181,
       "avgDmg": 994,
       "topSpg": {
         "name": "G.W. Panther",
@@ -1053,10 +1053,14 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 12448,
+      "winrate": 56.25,
+      "avgDmg": 1465,
+      "topSpg": {
+        "name": "Obj. 261",
+        "tier": 10,
+        "battles": 5694
+      }
     },
     {
       "id": 524710765,
