@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T13:19:19.488Z",
+  "lastUpdated": "2026-09-23T18:13:53.596Z",
   "dailyDate": "2026-09-23",
   "monthlyDate": "2026-09",
   "daily": {
@@ -669,8 +669,8 @@
       "id": 506043609,
       "name": "CHOJRAK_TCHORZLIWY_LAJT",
       "role_i18n": "Szer.",
-      "battles": 6393,
-      "winrate": 51.337400281557954,
+      "battles": 6395,
+      "winrate": 51.33698201720094,
       "avgDmg": 1376,
       "topSpg": {
         "name": "M53/M55",
@@ -747,9 +747,9 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4744,
-      "winrate": 49.325463743676224,
-      "avgDmg": 994,
+      "battles": 4747,
+      "winrate": 49.29429113124078,
+      "avgDmg": 995,
       "topSpg": {
         "name": "G.W. Panther",
         "tier": 7,
@@ -1029,8 +1029,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21566,
-      "winrate": 51.67393118798108,
+      "battles": 21567,
+      "winrate": 51.67617192933649,
       "avgDmg": 1215,
       "topSpg": {
         "name": "FV3805",
@@ -1107,8 +1107,8 @@
       "id": 528775028,
       "name": "zati31",
       "role_i18n": "Szer.",
-      "battles": 1331,
-      "winrate": 51.16453794139745,
+      "battles": 1332,
+      "winrate": 51.201201201201194,
       "avgDmg": 681,
       "topSpg": {
         "name": "M44",
