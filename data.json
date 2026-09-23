@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T01:13:54.917Z",
+  "lastUpdated": "2026-09-23T07:17:27.098Z",
   "dailyDate": "2026-09-23",
   "monthlyDate": "2026-09",
   "daily": {
@@ -22,7 +22,7 @@
     "502664328": 2637,
     "503288344": 850,
     "503424315": 8373,
-    "503552889": 0,
+    "503552889": 3042,
     "503846637": 2503,
     "504202599": 2646,
     "504216983": 3279,
@@ -1105,10 +1105,14 @@
       "id": 503552889,
       "name": "SuperBenek",
       "role_i18n": "Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 3042,
+      "winrate": 50.69033530571993,
+      "avgDmg": 1275,
+      "topSpg": {
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 467
+      }
     },
     {
       "id": 692267389,
@@ -1179,14 +1183,10 @@
       "id": 509430191,
       "name": "_Sweet_Gromus__",
       "role_i18n": "Rekrut",
-      "battles": 1972,
-      "winrate": 52.68762677484787,
-      "avgDmg": 866,
-      "topSpg": {
-        "name": "B-C 155 55",
-        "tier": 9,
-        "battles": 233
-      }
+      "battles": 0,
+      "winrate": 0,
+      "avgDmg": 0,
+      "topSpg": null
     },
     {
       "id": 519675313,
