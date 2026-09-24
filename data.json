@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T05:50:37.835Z",
+  "lastUpdated": "2026-09-24T11:03:23.265Z",
   "dailyDate": "2026-09-24",
   "monthlyDate": "2026-09",
   "daily": {
@@ -1107,8 +1107,8 @@
       "id": 528775028,
       "name": "zati31",
       "role_i18n": "Szer.",
-      "battles": 1332,
-      "winrate": 51.201201201201194,
+      "battles": 1335,
+      "winrate": 51.161048689138575,
       "avgDmg": 681,
       "topSpg": {
         "name": "M44",
