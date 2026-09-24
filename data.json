@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T20:16:50.502Z",
+  "lastUpdated": "2026-09-24T23:45:46.456Z",
   "dailyDate": "2026-09-24",
   "monthlyDate": "2026-09",
   "daily": {
@@ -336,7 +336,7 @@
     {
       "id": 542241836,
       "name": "wombat__maly",
-      "role_i18n": "Oficer bojowy",
+      "role_i18n": "Szer.",
       "battles": 1514,
       "winrate": 47.82034346103038,
       "avgDmg": 805,
@@ -440,7 +440,7 @@
     {
       "id": 570532446,
       "name": "Levvi_The_White_Fox",
-      "role_i18n": "Szer.",
+      "role_i18n": "Oficer bojowy",
       "battles": 195,
       "winrate": 55.8974358974359,
       "avgDmg": 781,
@@ -931,9 +931,9 @@
       "id": 568450865,
       "name": "POSOWACZ",
       "role_i18n": "Rezerwista",
-      "battles": 230,
-      "winrate": 49.130434782608695,
-      "avgDmg": 1321,
+      "battles": 233,
+      "winrate": 49.35622317596567,
+      "avgDmg": 1313,
       "topSpg": {
         "name": "Conqueror GC",
         "tier": 10,
@@ -982,7 +982,7 @@
     {
       "id": 546702146,
       "name": "Kapciock94",
-      "role_i18n": "Oficer bojowy",
+      "role_i18n": "Szer.",
       "battles": 51,
       "winrate": 50.98039215686274,
       "avgDmg": 529,
@@ -1161,9 +1161,9 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5363,
-      "winrate": 48.797314935670336,
-      "avgDmg": 878,
+      "battles": 5365,
+      "winrate": 48.77912395153775,
+      "avgDmg": 879,
       "topSpg": {
         "name": "Conqueror GC",
         "tier": 10,
@@ -1173,7 +1173,7 @@
     {
       "id": 566881671,
       "name": "Zpa_1",
-      "role_i18n": "Oficer bojowy",
+      "role_i18n": "Szer.",
       "battles": 915,
       "winrate": 49.94535519125683,
       "avgDmg": 962,
