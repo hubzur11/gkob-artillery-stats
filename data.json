@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T12:42:15.229Z",
+  "lastUpdated": "2026-09-27T17:27:16.366Z",
   "dailyDate": "2026-09-27",
   "monthlyDate": "2026-09",
   "daily": {
@@ -988,13 +988,13 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3035,
-      "winrate": 52.42174629324548,
+      "battles": 3036,
+      "winrate": 52.404479578392625,
       "avgDmg": 1382,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
-        "battles": 570
+        "battles": 571
       }
     },
     {
@@ -1014,8 +1014,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21567,
-      "winrate": 51.67617192933649,
+      "battles": 21568,
+      "winrate": 51.67841246290801,
       "avgDmg": 1215,
       "topSpg": {
         "name": "FV3805",
@@ -1105,8 +1105,8 @@
       "id": 503552889,
       "name": "SuperBenek",
       "role_i18n": "Szer.",
-      "battles": 3042,
-      "winrate": 50.69033530571993,
+      "battles": 3044,
+      "winrate": 50.65703022339028,
       "avgDmg": 1275,
       "topSpg": {
         "name": "Conqueror GC",
@@ -1400,8 +1400,8 @@
       "id": 502567417,
       "name": "marekel1",
       "role_i18n": "Szer.",
-      "battles": 7192,
-      "winrate": 52.600111234705224,
+      "battles": 7193,
+      "winrate": 52.60670095926595,
       "avgDmg": 1548,
       "topSpg": {
         "name": "Conqueror GC",
