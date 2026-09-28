@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T18:24:50.501Z",
+  "lastUpdated": "2026-09-28T23:40:38.494Z",
   "dailyDate": "2026-09-28",
   "monthlyDate": "2026-09",
   "daily": {
@@ -500,9 +500,9 @@
       "id": 580970642,
       "name": "PABLITTO_pk",
       "role_i18n": "Rezerwista",
-      "battles": 269,
-      "winrate": 47.58364312267658,
-      "avgDmg": 826,
+      "battles": 270,
+      "winrate": 47.77777777777778,
+      "avgDmg": 837,
       "topSpg": {
         "name": "S-51",
         "tier": 7,
@@ -825,9 +825,9 @@
       "id": 506116362,
       "name": "warzywo359",
       "role_i18n": "Rekrut",
-      "battles": 3987,
-      "winrate": 48.60797592174567,
-      "avgDmg": 976,
+      "battles": 3988,
+      "winrate": 48.595787362086256,
+      "avgDmg": 975,
       "topSpg": {
         "name": "B-C 155 55",
         "tier": 9,
@@ -1003,13 +1003,13 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3037,
-      "winrate": 52.42015146526177,
+      "battles": 3040,
+      "winrate": 52.368421052631575,
       "avgDmg": 1382,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
-        "battles": 572
+        "battles": 574
       }
     },
     {
@@ -1328,8 +1328,8 @@
       "id": 505811922,
       "name": "_Pif_Paf1978",
       "role_i18n": "Szer.",
-      "battles": 6761,
-      "winrate": 49.59325543558645,
+      "battles": 6762,
+      "winrate": 49.600709849157056,
       "avgDmg": 1315,
       "topSpg": {
         "name": "T92 HMC",
