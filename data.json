@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T16:47:30.916Z",
+  "lastUpdated": "2026-09-29T21:16:03.695Z",
   "dailyDate": "2026-09-29",
   "monthlyDate": "2026-09",
   "daily": {
@@ -749,8 +749,8 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4747,
-      "winrate": 49.29429113124078,
+      "battles": 4750,
+      "winrate": 49.26315789473684,
       "avgDmg": 995,
       "topSpg": {
         "name": "G.W. Panther",
@@ -1044,13 +1044,13 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21574,
-      "winrate": 51.69185130249374,
+      "battles": 21575,
+      "winrate": 51.68945538818076,
       "avgDmg": 1216,
       "topSpg": {
         "name": "FV3805",
         "tier": 9,
-        "battles": 5643
+        "battles": 5644
       }
     },
     {
@@ -1083,13 +1083,13 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12451,
-      "winrate": 56.260541321982174,
+      "battles": 12455,
+      "winrate": 56.26655961461261,
       "avgDmg": 1465,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 5697
+        "battles": 5701
       }
     },
     {
@@ -1251,7 +1251,7 @@
     {
       "id": 514265529,
       "name": "Ahzrak",
-      "role_i18n": "Rezerwista",
+      "role_i18n": "Szer.",
       "battles": 169,
       "winrate": 50.887573964497044,
       "avgDmg": 907,
@@ -1356,13 +1356,13 @@
       "id": 580224482,
       "name": "Marcelsiq",
       "role_i18n": "Szer.",
-      "battles": 267,
-      "winrate": 44.19475655430712,
-      "avgDmg": 868,
+      "battles": 269,
+      "winrate": 44.237918215613384,
+      "avgDmg": 872,
       "topSpg": {
         "name": "212A",
         "tier": 9,
-        "battles": 87
+        "battles": 89
       }
     },
     {
@@ -1430,8 +1430,8 @@
       "id": 502567417,
       "name": "marekel1",
       "role_i18n": "Szer.",
-      "battles": 7193,
-      "winrate": 52.60670095926595,
+      "battles": 7196,
+      "winrate": 52.598665925514176,
       "avgDmg": 1548,
       "topSpg": {
         "name": "Conqueror GC",
