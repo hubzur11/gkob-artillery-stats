@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T07:54:15.712Z",
+  "lastUpdated": "2026-09-30T14:34:20.624Z",
   "dailyDate": "2026-09-30",
   "monthlyDate": "2026-09",
   "daily": {
@@ -983,8 +983,8 @@
       "id": 502382396,
       "name": "Pancake_OG",
       "role_i18n": "Rezerwista",
-      "battles": 870,
-      "winrate": 51.724137931034484,
+      "battles": 871,
+      "winrate": 51.77956371986223,
       "avgDmg": 1121,
       "topSpg": {
         "name": "M53/M55",
@@ -1096,13 +1096,13 @@
       "id": 524710765,
       "name": "Grac3kooo",
       "role_i18n": "Rezerwista",
-      "battles": 541,
-      "winrate": 51.01663585951941,
-      "avgDmg": 1035,
+      "battles": 542,
+      "winrate": 51.107011070110694,
+      "avgDmg": 1034,
       "topSpg": {
         "name": "Conqueror GC",
         "tier": 10,
-        "battles": 186
+        "battles": 187
       }
     },
     {
