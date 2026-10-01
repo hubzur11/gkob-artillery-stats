@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T17:15:20.603Z",
+  "lastUpdated": "2026-10-01T22:18:29.465Z",
   "dailyDate": "2026-10-01",
   "monthlyDate": "2026-10",
   "daily": {
@@ -413,8 +413,8 @@
       "id": 505285183,
       "name": "green_warriorr",
       "role_i18n": "Rezerwista",
-      "battles": 1151,
-      "winrate": 48.566463944396176,
+      "battles": 1152,
+      "winrate": 48.52430555555556,
       "avgDmg": 1057,
       "topSpg": {
         "name": "G.W. Tiger",
@@ -1188,7 +1188,7 @@
     {
       "id": 522679190,
       "name": "_KaiseR_The_White_RaveN_",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 887,
       "winrate": 50.05636978579482,
       "avgDmg": 818,
