@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T15:19:58.588Z",
+  "lastUpdated": "2026-10-02T20:19:39.561Z",
   "dailyDate": "2026-10-02",
   "monthlyDate": "2026-10",
   "daily": {
@@ -69,7 +69,6 @@
     "530651811": 1286,
     "531629608": 549,
     "533428061": 3040,
-    "535695563": 459,
     "538047750": 5030,
     "542000050": 2084,
     "542241836": 1514,
@@ -170,7 +169,6 @@
     "530651811": 1286,
     "531629608": 549,
     "533428061": 3040,
-    "535695563": 459,
     "538047750": 5030,
     "542000050": 2084,
     "542241836": 1514,
@@ -508,9 +506,9 @@
       "id": 580970642,
       "name": "PABLITTO_pk",
       "role_i18n": "Rezerwista",
-      "battles": 271,
-      "winrate": 47.601476014760145,
-      "avgDmg": 836,
+      "battles": 272,
+      "winrate": 47.794117647058826,
+      "avgDmg": 838,
       "topSpg": {
         "name": "S-51",
         "tier": 7,
@@ -609,19 +607,6 @@
       }
     },
     {
-      "id": 519015115,
-      "name": "EnDi_CoronaSwirus",
-      "role_i18n": "Szer.",
-      "battles": 1770,
-      "winrate": 49.887005649717516,
-      "avgDmg": 945,
-      "topSpg": {
-        "name": "M53/M55",
-        "tier": 9,
-        "battles": 316
-      }
-    },
-    {
       "id": 574454983,
       "name": "_FREDEK___",
       "role_i18n": "Szer.",
@@ -635,16 +620,16 @@
       }
     },
     {
-      "id": 535695563,
-      "name": "_DRUDI",
-      "role_i18n": "Rekrut",
-      "battles": 459,
-      "winrate": 50.98039215686274,
-      "avgDmg": 704,
+      "id": 519015115,
+      "name": "EnDi_CoronaSwirus",
+      "role_i18n": "Szer.",
+      "battles": 1770,
+      "winrate": 49.887005649717516,
+      "avgDmg": 945,
       "topSpg": {
-        "name": "M12",
-        "tier": 7,
-        "battles": 90
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 316
       }
     },
     {
@@ -884,7 +869,7 @@
     {
       "id": 548354833,
       "name": "PolaczekCebulaczek11",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 330,
       "winrate": 52.72727272727272,
       "avgDmg": 958,
@@ -1015,8 +1000,8 @@
       "id": 505201485,
       "name": "B4GIETA",
       "role_i18n": "Rekrut",
-      "battles": 4804,
-      "winrate": 52.47710241465445,
+      "battles": 4805,
+      "winrate": 52.46618106139438,
       "avgDmg": 1333,
       "topSpg": {
         "name": "Obj. 261",
