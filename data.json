@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T18:59:02.984Z",
+  "lastUpdated": "2026-10-03T22:02:43.771Z",
   "dailyDate": "2026-10-03",
   "monthlyDate": "2026-10",
   "daily": {
@@ -625,8 +625,8 @@
       "id": 519015115,
       "name": "EnDi_CoronaSwirus",
       "role_i18n": "Szer.",
-      "battles": 1770,
-      "winrate": 49.887005649717516,
+      "battles": 1771,
+      "winrate": 49.85883681535855,
       "avgDmg": 945,
       "topSpg": {
         "name": "M53/M55",
