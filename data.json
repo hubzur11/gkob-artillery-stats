@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T00:08:05.151Z",
+  "lastUpdated": "2026-10-03T06:00:10.984Z",
   "dailyDate": "2026-10-03",
   "monthlyDate": "2026-10",
   "daily": {
@@ -506,9 +506,9 @@
       "id": 580970642,
       "name": "PABLITTO_pk",
       "role_i18n": "Rezerwista",
-      "battles": 272,
-      "winrate": 47.794117647058826,
-      "avgDmg": 838,
+      "battles": 275,
+      "winrate": 48,
+      "avgDmg": 841,
       "topSpg": {
         "name": "S-51",
         "tier": 7,
@@ -974,14 +974,10 @@
       "id": 502382396,
       "name": "Pancake_OG",
       "role_i18n": "Rezerwista",
-      "battles": 871,
-      "winrate": 51.77956371986223,
-      "avgDmg": 1121,
-      "topSpg": {
-        "name": "M53/M55",
-        "tier": 9,
-        "battles": 312
-      }
+      "battles": 0,
+      "winrate": 0,
+      "avgDmg": 0,
+      "topSpg": null
     },
     {
       "id": 546702146,
