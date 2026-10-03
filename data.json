@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T15:39:38.863Z",
+  "lastUpdated": "2026-10-03T18:59:02.984Z",
   "dailyDate": "2026-10-03",
   "monthlyDate": "2026-10",
   "daily": {
@@ -47,6 +47,7 @@
     "510813830": 3885,
     "510826701": 1557,
     "511262566": 561,
+    "511613372": 522,
     "512665137": 3718,
     "514265529": 169,
     "514483571": 786,
@@ -147,6 +148,7 @@
     "510813830": 3885,
     "510826701": 1557,
     "511262566": 561,
+    "511613372": 522,
     "512665137": 3718,
     "514265529": 169,
     "514483571": 786,
@@ -415,8 +417,8 @@
       "id": 505285183,
       "name": "green_warriorr",
       "role_i18n": "Rezerwista",
-      "battles": 1153,
-      "winrate": 48.482220294882914,
+      "battles": 1155,
+      "winrate": 48.57142857142857,
       "avgDmg": 1059,
       "topSpg": {
         "name": "G.W. Tiger",
@@ -506,9 +508,9 @@
       "id": 580970642,
       "name": "PABLITTO_pk",
       "role_i18n": "Rezerwista",
-      "battles": 275,
-      "winrate": 48,
-      "avgDmg": 841,
+      "battles": 276,
+      "winrate": 48.188405797101446,
+      "avgDmg": 845,
       "topSpg": {
         "name": "S-51",
         "tier": 7,
@@ -844,9 +846,9 @@
       "id": 506116362,
       "name": "warzywo359",
       "role_i18n": "Rekrut",
-      "battles": 3988,
-      "winrate": 48.595787362086256,
-      "avgDmg": 975,
+      "battles": 3991,
+      "winrate": 48.63442746178902,
+      "avgDmg": 976,
       "topSpg": {
         "name": "B-C 155 55",
         "tier": 9,
@@ -947,7 +949,7 @@
     {
       "id": 517088569,
       "name": "Kaczasty_",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Szer.",
       "battles": 5103,
       "winrate": 49.24554183813443,
       "avgDmg": 1105,
@@ -1165,8 +1167,8 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5368,
-      "winrate": 48.75186289120715,
+      "battles": 5369,
+      "winrate": 48.74278264108773,
       "avgDmg": 879,
       "topSpg": {
         "name": "Conqueror GC",
@@ -1263,6 +1265,19 @@
         "name": "G.W. Tiger P",
         "tier": 8,
         "battles": 56
+      }
+    },
+    {
+      "id": 511613372,
+      "name": "Igor2013pl",
+      "role_i18n": "Rekrut",
+      "battles": 522,
+      "winrate": 49.616858237547895,
+      "avgDmg": 757,
+      "topSpg": {
+        "name": "M12",
+        "tier": 7,
+        "battles": 116
       }
     },
     {
@@ -1398,7 +1413,7 @@
     {
       "id": 516538348,
       "name": "_SKAJU_The_White_Wolf_",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Szer.",
       "battles": 1864,
       "winrate": 52.95064377682404,
       "avgDmg": 929,
