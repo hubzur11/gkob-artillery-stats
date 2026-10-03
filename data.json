@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T06:00:10.984Z",
+  "lastUpdated": "2026-10-03T11:28:26.894Z",
   "dailyDate": "2026-10-03",
   "monthlyDate": "2026-10",
   "daily": {
@@ -974,10 +974,14 @@
       "id": 502382396,
       "name": "Pancake_OG",
       "role_i18n": "Rezerwista",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 871,
+      "winrate": 51.77956371986223,
+      "avgDmg": 1121,
+      "topSpg": {
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 312
+      }
     },
     {
       "id": 546702146,
