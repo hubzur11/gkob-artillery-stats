@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T19:01:06.789Z",
+  "lastUpdated": "2026-10-04T22:18:42.679Z",
   "dailyDate": "2026-10-04",
   "monthlyDate": "2026-10",
   "daily": {
@@ -1362,9 +1362,9 @@
       "id": 505811922,
       "name": "_Pif_Paf1978",
       "role_i18n": "Szer.",
-      "battles": 6762,
-      "winrate": 49.600709849157056,
-      "avgDmg": 1315,
+      "battles": 6763,
+      "winrate": 49.59337572083395,
+      "avgDmg": 1316,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
@@ -1449,8 +1449,8 @@
       "id": 502567417,
       "name": "marekel1",
       "role_i18n": "Szer.",
-      "battles": 7196,
-      "winrate": 52.598665925514176,
+      "battles": 7198,
+      "winrate": 52.58405112531259,
       "avgDmg": 1548,
       "topSpg": {
         "name": "Conqueror GC",
