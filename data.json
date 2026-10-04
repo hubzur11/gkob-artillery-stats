@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T09:18:21.837Z",
+  "lastUpdated": "2026-10-04T15:07:35.344Z",
   "dailyDate": "2026-10-04",
   "monthlyDate": "2026-10",
   "daily": {
@@ -417,9 +417,9 @@
       "id": 505285183,
       "name": "green_warriorr",
       "role_i18n": "Rezerwista",
-      "battles": 1155,
-      "winrate": 48.57142857142857,
-      "avgDmg": 1059,
+      "battles": 1156,
+      "winrate": 48.615916955017305,
+      "avgDmg": 1061,
       "topSpg": {
         "name": "G.W. Tiger",
         "tier": 9,
@@ -1024,13 +1024,13 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3040,
-      "winrate": 52.368421052631575,
+      "battles": 3041,
+      "winrate": 52.38408418283459,
       "avgDmg": 1382,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
-        "battles": 574
+        "battles": 575
       }
     },
     {
@@ -1050,8 +1050,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21584,
-      "winrate": 51.69570051890289,
+      "battles": 21586,
+      "winrate": 51.700176040025944,
       "avgDmg": 1216,
       "topSpg": {
         "name": "FV3805",
@@ -1167,8 +1167,8 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5370,
-      "winrate": 48.75232774674115,
+      "battles": 5371,
+      "winrate": 48.74325079128654,
       "avgDmg": 879,
       "topSpg": {
         "name": "Conqueror GC",
