@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T15:07:35.344Z",
+  "lastUpdated": "2026-10-04T19:01:06.789Z",
   "dailyDate": "2026-10-04",
   "monthlyDate": "2026-10",
   "daily": {
@@ -73,13 +73,13 @@
     "538047750": 5030,
     "542000050": 2084,
     "542241836": 1514,
+    "542583657": 218,
     "543726589": 809,
     "543904952": 1624,
     "544608103": 459,
     "545984353": 2421,
     "546702146": 51,
     "547909417": 850,
-    "548354833": 330,
     "551529749": 691,
     "560634340": 1176,
     "561048292": 688,
@@ -174,13 +174,13 @@
     "538047750": 5030,
     "542000050": 2084,
     "542241836": 1514,
+    "542583657": 218,
     "543726589": 809,
     "543904952": 1624,
     "544608103": 459,
     "545984353": 2421,
     "546702146": 51,
     "547909417": 850,
-    "548354833": 330,
     "551529749": 691,
     "560634340": 1176,
     "561048292": 688,
@@ -664,8 +664,8 @@
       "id": 506043609,
       "name": "CHOJRAK_TCHORZLIWY_LAJT",
       "role_i18n": "Szer.",
-      "battles": 6395,
-      "winrate": 51.33698201720094,
+      "battles": 6396,
+      "winrate": 51.32895559724828,
       "avgDmg": 1376,
       "topSpg": {
         "name": "M53/M55",
@@ -869,19 +869,6 @@
       }
     },
     {
-      "id": 548354833,
-      "name": "PolaczekCebulaczek11",
-      "role_i18n": "Rezerwista",
-      "battles": 330,
-      "winrate": 52.72727272727272,
-      "avgDmg": 958,
-      "topSpg": {
-        "name": "M44",
-        "tier": 6,
-        "battles": 128
-      }
-    },
-    {
       "id": 551529749,
       "name": "krwawy_wojownik7117",
       "role_i18n": "Rezerwista",
@@ -1050,8 +1037,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21586,
-      "winrate": 51.700176040025944,
+      "battles": 21597,
+      "winrate": 51.68310413483355,
       "avgDmg": 1216,
       "topSpg": {
         "name": "FV3805",
@@ -1086,6 +1073,19 @@
       }
     },
     {
+      "id": 542583657,
+      "name": "Rzygulix",
+      "role_i18n": "Rekrut",
+      "battles": 218,
+      "winrate": 47.706422018348626,
+      "avgDmg": 827,
+      "topSpg": {
+        "name": "M40/M43",
+        "tier": 8,
+        "battles": 190
+      }
+    },
+    {
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
@@ -1102,9 +1102,9 @@
       "id": 524710765,
       "name": "Grac3kooo",
       "role_i18n": "Rezerwista",
-      "battles": 542,
-      "winrate": 51.107011070110694,
-      "avgDmg": 1034,
+      "battles": 543,
+      "winrate": 51.01289134438306,
+      "avgDmg": 1033,
       "topSpg": {
         "name": "Conqueror GC",
         "tier": 10,
@@ -1153,7 +1153,7 @@
     {
       "id": 692267389,
       "name": "reksiov2",
-      "role_i18n": "Rezerwista",
+      "role_i18n": "Szer.",
       "battles": 20,
       "winrate": 50,
       "avgDmg": 825,
@@ -1167,8 +1167,8 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Szer.",
-      "battles": 5371,
-      "winrate": 48.74325079128654,
+      "battles": 5373,
+      "winrate": 48.743718592964825,
       "avgDmg": 879,
       "topSpg": {
         "name": "Conqueror GC",
@@ -1205,7 +1205,7 @@
     {
       "id": 522679190,
       "name": "_KaiseR_The_White_RaveN_",
-      "role_i18n": "Rezerwista",
+      "role_i18n": "Rekrut",
       "battles": 887,
       "winrate": 50.05636978579482,
       "avgDmg": 818,
