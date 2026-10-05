@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T08:14:30.418Z",
+  "lastUpdated": "2026-10-05T17:49:18.091Z",
   "dailyDate": "2026-10-05",
   "monthlyDate": "2026-10",
   "daily": {
@@ -442,7 +442,7 @@
     {
       "id": 570532446,
       "name": "Levvi_The_White_Fox",
-      "role_i18n": "Oficer bojowy",
+      "role_i18n": "Szer.",
       "battles": 195,
       "winrate": 55.8974358974359,
       "avgDmg": 781,
@@ -898,14 +898,10 @@
       "id": 633381672,
       "name": "Es6o_2023",
       "role_i18n": "Rezerwista",
-      "battles": 1503,
-      "winrate": 48.902195608782435,
-      "avgDmg": 1109,
-      "topSpg": {
-        "name": "T92 HMC",
-        "tier": 10,
-        "battles": 148
-      }
+      "battles": 0,
+      "winrate": 0,
+      "avgDmg": 0,
+      "topSpg": null
     },
     {
       "id": 547909417,
@@ -1205,7 +1201,7 @@
     {
       "id": 522679190,
       "name": "_KaiseR_The_White_RaveN_",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 887,
       "winrate": 50.05636978579482,
       "avgDmg": 818,
