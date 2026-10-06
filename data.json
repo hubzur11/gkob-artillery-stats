@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T17:52:12.660Z",
+  "lastUpdated": "2026-10-06T22:16:15.671Z",
   "dailyDate": "2026-10-06",
   "monthlyDate": "2026-10",
   "daily": {
@@ -907,10 +907,14 @@
       "id": 517088569,
       "name": "Kaczasty_",
       "role_i18n": "Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 5103,
+      "winrate": 49.24554183813443,
+      "avgDmg": 1105,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 1371
+      }
     },
     {
       "id": 503424315,
