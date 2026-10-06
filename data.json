@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-05T23:41:32.567Z",
-  "dailyDate": "2026-10-05",
+  "lastUpdated": "2026-10-06T04:39:21.790Z",
+  "dailyDate": "2026-10-06",
   "monthlyDate": "2026-10",
   "daily": {
     "500211138": 4626,
@@ -775,10 +775,14 @@
       "id": 509568258,
       "name": "Pandusia_",
       "role_i18n": "Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 434,
+      "winrate": 48.8479262672811,
+      "avgDmg": 527,
+      "topSpg": {
+        "name": "Grille",
+        "tier": 5,
+        "battles": 140
+      }
     },
     {
       "id": 538047750,
@@ -810,10 +814,14 @@
       "id": 506116362,
       "name": "warzywo359",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 3991,
+      "winrate": 48.63442746178902,
+      "avgDmg": 976,
+      "topSpg": {
+        "name": "B-C 155 55",
+        "tier": 9,
+        "battles": 501
+      }
     },
     {
       "id": 684339074,
@@ -910,10 +918,14 @@
       "id": 502382396,
       "name": "Pancake_OG",
       "role_i18n": "Rezerwista",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 871,
+      "winrate": 51.77956371986223,
+      "avgDmg": 1121,
+      "topSpg": {
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 312
+      }
     },
     {
       "id": 546702146,
