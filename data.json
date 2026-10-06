@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T11:45:23.083Z",
+  "lastUpdated": "2026-10-06T17:52:12.660Z",
   "dailyDate": "2026-10-06",
   "monthlyDate": "2026-10",
   "daily": {
@@ -413,9 +413,9 @@
       "id": 525520969,
       "name": "___BANDZIOR___",
       "role_i18n": "Szer.",
-      "battles": 1023,
-      "winrate": 48.484848484848484,
-      "avgDmg": 1028,
+      "battles": 1024,
+      "winrate": 48.53515625,
+      "avgDmg": 1029,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
@@ -478,9 +478,9 @@
       "id": 580970642,
       "name": "PABLITTO_pk",
       "role_i18n": "Rezerwista",
-      "battles": 276,
-      "winrate": 48.188405797101446,
-      "avgDmg": 845,
+      "battles": 277,
+      "winrate": 48.014440433213,
+      "avgDmg": 843,
       "topSpg": {
         "name": "S-51",
         "tier": 7,
@@ -556,10 +556,14 @@
       "id": 543904952,
       "name": "G3N3R0X",
       "role_i18n": "Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 1624,
+      "winrate": 49.32266009852217,
+      "avgDmg": 1201,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 402
+      }
     },
     {
       "id": 574454983,
@@ -903,14 +907,10 @@
       "id": 517088569,
       "name": "Kaczasty_",
       "role_i18n": "Szer.",
-      "battles": 5103,
-      "winrate": 49.24554183813443,
-      "avgDmg": 1105,
-      "topSpg": {
-        "name": "T92 HMC",
-        "tier": 10,
-        "battles": 1371
-      }
+      "battles": 0,
+      "winrate": 0,
+      "avgDmg": 0,
+      "topSpg": null
     },
     {
       "id": 503424315,
