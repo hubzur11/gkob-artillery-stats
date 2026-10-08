@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T02:27:28.332Z",
+  "lastUpdated": "2026-10-08T09:55:05.150Z",
   "dailyDate": "2026-10-08",
   "monthlyDate": "2026-10",
   "daily": {
@@ -1306,8 +1306,8 @@
       "id": 507762126,
       "name": "deo100",
       "role_i18n": "Młodszy oficer",
-      "battles": 3917,
-      "winrate": 49.93617564462599,
+      "battles": 3919,
+      "winrate": 49.91069150293443,
       "avgDmg": 881,
       "topSpg": {
         "name": "AMX 13 F3",
