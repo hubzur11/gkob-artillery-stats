@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T16:53:10.228Z",
+  "lastUpdated": "2026-10-09T21:27:55.759Z",
   "dailyDate": "2026-10-09",
   "monthlyDate": "2026-10",
   "daily": {
@@ -753,10 +753,14 @@
       "id": 507500799,
       "name": "CZ1T3R",
       "role_i18n": "Oficer bojowy",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 480,
+      "winrate": 55.208333333333336,
+      "avgDmg": 1986,
+      "topSpg": {
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 131
+      }
     },
     {
       "id": 509568258,
@@ -801,8 +805,8 @@
       "id": 506116362,
       "name": "warzywo359",
       "role_i18n": "Rekrut",
-      "battles": 3991,
-      "winrate": 48.63442746178902,
+      "battles": 3998,
+      "winrate": 48.64932466233117,
       "avgDmg": 976,
       "topSpg": {
         "name": "B-C 155 55",
