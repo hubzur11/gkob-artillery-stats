@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T09:58:48.417Z",
+  "lastUpdated": "2026-10-09T16:53:10.228Z",
   "dailyDate": "2026-10-09",
   "monthlyDate": "2026-10",
   "daily": {
@@ -753,14 +753,10 @@
       "id": 507500799,
       "name": "CZ1T3R",
       "role_i18n": "Oficer bojowy",
-      "battles": 479,
-      "winrate": 55.323590814196244,
-      "avgDmg": 1987,
-      "topSpg": {
-        "name": "Conqueror GC",
-        "tier": 10,
-        "battles": 131
-      }
+      "battles": 0,
+      "winrate": 0,
+      "avgDmg": 0,
+      "topSpg": null
     },
     {
       "id": 509568258,
