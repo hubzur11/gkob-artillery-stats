@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T01:29:50.457Z",
+  "lastUpdated": "2026-10-10T08:03:47.547Z",
   "dailyDate": "2026-10-10",
   "monthlyDate": "2026-10",
   "daily": {
@@ -62,7 +62,7 @@
     "522679190": 887,
     "523478269": 891,
     "524710765": 543,
-    "524718307": 0,
+    "524718307": 1120,
     "525505288": 2052,
     "525520969": 1024,
     "527754688": 885,
@@ -649,10 +649,14 @@
       "id": 524718307,
       "name": "Alpah051",
       "role_i18n": "Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 1120,
+      "winrate": 48.035714285714285,
+      "avgDmg": 647,
+      "topSpg": {
+        "name": "M40/M43",
+        "tier": 8,
+        "battles": 131
+      }
     },
     {
       "id": 561048292,
@@ -710,9 +714,9 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4750,
-      "winrate": 49.26315789473684,
-      "avgDmg": 995,
+      "battles": 4753,
+      "winrate": 49.23206395960446,
+      "avgDmg": 994,
       "topSpg": {
         "name": "G.W. Panther",
         "tier": 7,
