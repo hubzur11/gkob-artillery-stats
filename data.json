@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T10:34:02.266Z",
+  "lastUpdated": "2026-10-11T16:31:41.571Z",
   "dailyDate": "2026-10-11",
   "monthlyDate": "2026-10",
   "daily": {
@@ -49,6 +49,7 @@
     "510813830": 3885,
     "510826701": 1557,
     "511262566": 561,
+    "511362195": 745,
     "511613372": 522,
     "511739797": 2529,
     "512665137": 3718,
@@ -149,6 +150,7 @@
     "510813830": 3885,
     "510826701": 1557,
     "511262566": 561,
+    "511362195": 745,
     "511613372": 522,
     "511739797": 2529,
     "512665137": 3718,
@@ -529,6 +531,19 @@
       }
     },
     {
+      "id": 511362195,
+      "name": "Ceramika_",
+      "role_i18n": "Rekrut",
+      "battles": 745,
+      "winrate": 45.100671140939596,
+      "avgDmg": 720,
+      "topSpg": {
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 208
+      }
+    },
+    {
       "id": 530651811,
       "name": "Ukradne_Ci_Strych_BRO",
       "role_i18n": "Szer.",
@@ -831,8 +846,8 @@
       "id": 506116362,
       "name": "warzywo359",
       "role_i18n": "Rekrut",
-      "battles": 3998,
-      "winrate": 48.64932466233117,
+      "battles": 3999,
+      "winrate": 48.66216554138534,
       "avgDmg": 976,
       "topSpg": {
         "name": "B-C 155 55",
@@ -896,9 +911,9 @@
       "id": 547909417,
       "name": "Okrutnik_z_Wadowic_",
       "role_i18n": "Oficer rekrutacyjny",
-      "battles": 853,
-      "winrate": 51.81711606096131,
-      "avgDmg": 844,
+      "battles": 864,
+      "winrate": 51.736111111111114,
+      "avgDmg": 845,
       "topSpg": {
         "name": "FV3805",
         "tier": 9,
@@ -1022,8 +1037,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21597,
-      "winrate": 51.68310413483355,
+      "battles": 21599,
+      "winrate": 51.68757812861706,
       "avgDmg": 1216,
       "topSpg": {
         "name": "FV3805",
