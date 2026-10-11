@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T03:44:46.815Z",
+  "lastUpdated": "2026-10-11T10:34:02.266Z",
   "dailyDate": "2026-10-11",
   "monthlyDate": "2026-10",
   "daily": {
@@ -896,9 +896,9 @@
       "id": 547909417,
       "name": "Okrutnik_z_Wadowic_",
       "role_i18n": "Oficer rekrutacyjny",
-      "battles": 852,
-      "winrate": 51.76056338028169,
-      "avgDmg": 845,
+      "battles": 853,
+      "winrate": 51.81711606096131,
+      "avgDmg": 844,
       "topSpg": {
         "name": "FV3805",
         "tier": 9,
@@ -1334,8 +1334,8 @@
       "id": 505811922,
       "name": "_Pif_Paf1978",
       "role_i18n": "Szer.",
-      "battles": 6764,
-      "winrate": 49.600827912477826,
+      "battles": 6766,
+      "winrate": 49.586166124741354,
       "avgDmg": 1316,
       "topSpg": {
         "name": "T92 HMC",
