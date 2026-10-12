@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T00:11:22.367Z",
+  "lastUpdated": "2026-10-12T06:55:28.572Z",
   "dailyDate": "2026-10-12",
   "monthlyDate": "2026-10",
   "daily": {
@@ -729,9 +729,9 @@
       "id": 562483434,
       "name": "kokolifx414",
       "role_i18n": "Szer.",
-      "battles": 371,
-      "winrate": 55.25606469002695,
-      "avgDmg": 844,
+      "battles": 378,
+      "winrate": 55.55555555555556,
+      "avgDmg": 845,
       "topSpg": {
         "name": "Lorr. 155 50",
         "tier": 7,
