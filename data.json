@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T16:27:35.801Z",
+  "lastUpdated": "2026-10-14T20:26:08.347Z",
   "dailyDate": "2026-10-14",
   "monthlyDate": "2026-10",
   "daily": {
@@ -753,8 +753,8 @@
       "id": 502782205,
       "name": "SonyChief",
       "role_i18n": "Rekrut",
-      "battles": 8302,
-      "winrate": 50.38544928932788,
+      "battles": 8303,
+      "winrate": 50.39142478622185,
       "avgDmg": 1565,
       "topSpg": {
         "name": "Obj. 261",
@@ -974,8 +974,8 @@
       "id": 505201485,
       "name": "B4GIETA",
       "role_i18n": "Rekrut",
-      "battles": 4805,
-      "winrate": 52.46618106139438,
+      "battles": 4809,
+      "winrate": 52.44333541276772,
       "avgDmg": 1333,
       "topSpg": {
         "name": "Obj. 261",
@@ -1347,8 +1347,8 @@
       "id": 505811922,
       "name": "_Pif_Paf1978",
       "role_i18n": "Szer.",
-      "battles": 6766,
-      "winrate": 49.586166124741354,
+      "battles": 6767,
+      "winrate": 49.57883848086301,
       "avgDmg": 1316,
       "topSpg": {
         "name": "T92 HMC",
