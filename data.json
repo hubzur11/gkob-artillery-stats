@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T05:46:12.660Z",
+  "lastUpdated": "2026-10-14T11:06:18.882Z",
   "dailyDate": "2026-10-14",
   "monthlyDate": "2026-10",
   "daily": {
@@ -701,27 +701,19 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4753,
-      "winrate": 49.23206395960446,
-      "avgDmg": 994,
-      "topSpg": {
-        "name": "G.W. Panther",
-        "tier": 7,
-        "battles": 576
-      }
+      "battles": 0,
+      "winrate": 0,
+      "avgDmg": 0,
+      "topSpg": null
     },
     {
       "id": 517302010,
       "name": "oficer20000",
       "role_i18n": "Rekrut",
-      "battles": 1089,
-      "winrate": 49.127640036730945,
-      "avgDmg": 549,
-      "topSpg": {
-        "name": "AMX 13 F3",
-        "tier": 6,
-        "battles": 111
-      }
+      "battles": 0,
+      "winrate": 0,
+      "avgDmg": 0,
+      "topSpg": null
     },
     {
       "id": 500257019,
