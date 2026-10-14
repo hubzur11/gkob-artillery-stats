@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T11:06:18.882Z",
+  "lastUpdated": "2026-10-14T16:27:35.801Z",
   "dailyDate": "2026-10-14",
   "monthlyDate": "2026-10",
   "daily": {
@@ -63,7 +63,6 @@
     "519015115": 1771,
     "519675313": 2332,
     "519915969": 171,
-    "523478269": 891,
     "524710765": 543,
     "525505288": 2052,
     "525520969": 1025,
@@ -73,6 +72,7 @@
     "533428061": 3048,
     "534054847": 16,
     "538047750": 5031,
+    "540253905": 911,
     "542000050": 2084,
     "542241836": 1515,
     "542583657": 218,
@@ -163,7 +163,6 @@
     "519015115": 1770,
     "519675313": 2332,
     "519915969": 171,
-    "523478269": 891,
     "524710765": 542,
     "525505288": 2052,
     "525520969": 1023,
@@ -173,6 +172,7 @@
     "533428061": 3040,
     "534054847": 16,
     "538047750": 5030,
+    "540253905": 911,
     "542000050": 2084,
     "542241836": 1514,
     "542583657": 218,
@@ -350,8 +350,8 @@
       "id": 542241836,
       "name": "wombat__maly",
       "role_i18n": "Szer.",
-      "battles": 1515,
-      "winrate": 47.85478547854785,
+      "battles": 1516,
+      "winrate": 47.88918205804749,
       "avgDmg": 804,
       "topSpg": {
         "name": "Bishop",
@@ -519,9 +519,9 @@
       "id": 580970642,
       "name": "PABLITTO_pk",
       "role_i18n": "Szer.",
-      "battles": 279,
-      "winrate": 47.67025089605735,
-      "avgDmg": 845,
+      "battles": 280,
+      "winrate": 47.85714285714286,
+      "avgDmg": 848,
       "topSpg": {
         "name": "S-51",
         "tier": 7,
@@ -633,6 +633,19 @@
       }
     },
     {
+      "id": 540253905,
+      "name": "cygan24_iron",
+      "role_i18n": "Rekrut",
+      "battles": 911,
+      "winrate": 50.27442371020856,
+      "avgDmg": 1166,
+      "topSpg": {
+        "name": "T92 HMC",
+        "tier": 10,
+        "battles": 282
+      }
+    },
+    {
       "id": 502604499,
       "name": "Binio_1978",
       "role_i18n": "Szer.",
@@ -701,19 +714,27 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 4753,
+      "winrate": 49.23206395960446,
+      "avgDmg": 994,
+      "topSpg": {
+        "name": "G.W. Panther",
+        "tier": 7,
+        "battles": 576
+      }
     },
     {
       "id": 517302010,
       "name": "oficer20000",
       "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 1089,
+      "winrate": 49.127640036730945,
+      "avgDmg": 549,
+      "topSpg": {
+        "name": "AMX 13 F3",
+        "tier": 6,
+        "battles": 111
+      }
     },
     {
       "id": 500257019,
@@ -729,16 +750,16 @@
       }
     },
     {
-      "id": 523478269,
-      "name": "FragForGlory",
-      "role_i18n": "Rezerwista",
-      "battles": 891,
-      "winrate": 51.178451178451176,
-      "avgDmg": 962,
+      "id": 502782205,
+      "name": "SonyChief",
+      "role_i18n": "Rekrut",
+      "battles": 8302,
+      "winrate": 50.38544928932788,
+      "avgDmg": 1565,
       "topSpg": {
-        "name": "M53/M55",
-        "tier": 9,
-        "battles": 139
+        "name": "Obj. 261",
+        "tier": 10,
+        "battles": 1502
       }
     },
     {
@@ -1141,15 +1162,6 @@
       }
     },
     {
-      "id": 680246013,
-      "name": "GKOB_REZERWY",
-      "role_i18n": "Oficer werbunkowy",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
-    },
-    {
       "id": 566881671,
       "name": "Zpa_1",
       "role_i18n": "Szer.",
@@ -1410,17 +1422,13 @@
       }
     },
     {
-      "id": 502782205,
-      "name": "SonyChief",
-      "role_i18n": "Rekrut",
-      "battles": 8302,
-      "winrate": 50.38544928932788,
-      "avgDmg": 1565,
-      "topSpg": {
-        "name": "Obj. 261",
-        "tier": 10,
-        "battles": 1502
-      }
+      "id": 680246013,
+      "name": "GKOB_REZERWY",
+      "role_i18n": "Oficer werbunkowy",
+      "battles": 0,
+      "winrate": 0,
+      "avgDmg": 0,
+      "topSpg": null
     },
     {
       "id": 502567417,
