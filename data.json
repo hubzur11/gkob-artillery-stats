@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T13:55:05.724Z",
+  "lastUpdated": "2026-10-15T17:59:27.042Z",
   "dailyDate": "2026-10-15",
   "monthlyDate": "2026-10",
   "daily": {
@@ -415,9 +415,9 @@
       "id": 505285183,
       "name": "green_warriorr",
       "role_i18n": "Szer.",
-      "battles": 1156,
-      "winrate": 48.615916955017305,
-      "avgDmg": 1061,
+      "battles": 1157,
+      "winrate": 48.57389801210026,
+      "avgDmg": 1062,
       "topSpg": {
         "name": "G.W. Tiger",
         "tier": 9,
@@ -1035,9 +1035,9 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21607,
-      "winrate": 51.700837691488864,
-      "avgDmg": 1216,
+      "battles": 21610,
+      "winrate": 51.69828782970847,
+      "avgDmg": 1217,
       "topSpg": {
         "name": "FV3805",
         "tier": 9,
@@ -1360,13 +1360,13 @@
       "id": 580224482,
       "name": "Marcelsiq",
       "role_i18n": "Szer.",
-      "battles": 269,
-      "winrate": 44.237918215613384,
-      "avgDmg": 872,
+      "battles": 270,
+      "winrate": 44.074074074074076,
+      "avgDmg": 873,
       "topSpg": {
         "name": "212A",
         "tier": 9,
-        "battles": 89
+        "battles": 90
       }
     },
     {
