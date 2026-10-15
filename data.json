@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T17:59:27.042Z",
+  "lastUpdated": "2026-10-15T21:09:23.498Z",
   "dailyDate": "2026-10-15",
   "monthlyDate": "2026-10",
   "daily": {
@@ -714,8 +714,8 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4753,
-      "winrate": 49.23206395960446,
+      "battles": 4754,
+      "winrate": 49.221708035338665,
       "avgDmg": 994,
       "topSpg": {
         "name": "G.W. Panther",
@@ -1009,13 +1009,13 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3048,
-      "winrate": 52.39501312335958,
+      "battles": 3050,
+      "winrate": 52.42622950819672,
       "avgDmg": 1386,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
-        "battles": 578
+        "battles": 579
       }
     },
     {
@@ -1434,8 +1434,8 @@
       "id": 502567417,
       "name": "marekel1",
       "role_i18n": "Szer.",
-      "battles": 7200,
-      "winrate": 52.56944444444444,
+      "battles": 7201,
+      "winrate": 52.57603110679072,
       "avgDmg": 1548,
       "topSpg": {
         "name": "Conqueror GC",
