@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T14:03:50.313Z",
+  "lastUpdated": "2026-10-17T17:45:12.068Z",
   "dailyDate": "2026-10-17",
   "monthlyDate": "2026-10",
   "daily": {
@@ -1308,13 +1308,13 @@
       "id": 501874633,
       "name": "TomassoPL",
       "role_i18n": "Szer.",
-      "battles": 2364,
-      "winrate": 48.81556683587141,
+      "battles": 2365,
+      "winrate": 48.837209302325576,
       "avgDmg": 1230,
       "topSpg": {
         "name": "Conqueror GC",
         "tier": 10,
-        "battles": 943
+        "battles": 944
       }
     },
     {
