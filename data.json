@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T17:45:12.068Z",
+  "lastUpdated": "2026-10-17T20:03:09.574Z",
   "dailyDate": "2026-10-17",
   "monthlyDate": "2026-10",
   "daily": {
@@ -310,7 +310,7 @@
     {
       "id": 510111768,
       "name": "eXoDee",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 13298,
       "winrate": 52.43645661001655,
       "avgDmg": 1740,
@@ -401,7 +401,7 @@
     {
       "id": 575252538,
       "name": "Xyp9x_2020",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 537,
       "winrate": 52.327746741154556,
       "avgDmg": 653,
