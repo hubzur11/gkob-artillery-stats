@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T17:47:17.293Z",
+  "lastUpdated": "2026-10-18T20:02:30.513Z",
   "dailyDate": "2026-10-18",
   "monthlyDate": "2026-10",
   "daily": {
@@ -61,6 +61,7 @@
     "518289414": 1652,
     "518473722": 2372,
     "519015115": 1771,
+    "519175618": 982,
     "519675313": 2332,
     "519915969": 171,
     "524710765": 543,
@@ -159,6 +160,7 @@
     "518289414": 1652,
     "518473722": 2372,
     "519015115": 1770,
+    "519175618": 982,
     "519675313": 2332,
     "519915969": 171,
     "524710765": 542,
@@ -306,7 +308,7 @@
     {
       "id": 510111768,
       "name": "eXoDee",
-      "role_i18n": "Rezerwista",
+      "role_i18n": "Rekrut",
       "battles": 13298,
       "winrate": 52.43645661001655,
       "avgDmg": 1740,
@@ -397,7 +399,7 @@
     {
       "id": 575252538,
       "name": "Xyp9x_2020",
-      "role_i18n": "Rezerwista",
+      "role_i18n": "Rekrut",
       "battles": 537,
       "winrate": 52.327746741154556,
       "avgDmg": 653,
@@ -483,6 +485,19 @@
         "name": "G.W. Tiger",
         "tier": 9,
         "battles": 411
+      }
+    },
+    {
+      "id": 500211138,
+      "name": "zbyszkoj",
+      "role_i18n": "Szer.",
+      "battles": 4626,
+      "winrate": 50.51880674448768,
+      "avgDmg": 1525,
+      "topSpg": {
+        "name": "212A",
+        "tier": 9,
+        "battles": 804
       }
     },
     {
@@ -866,8 +881,8 @@
       "id": 503424315,
       "name": "blavood",
       "role_i18n": "Szer.",
-      "battles": 8373,
-      "winrate": 51.65412635853338,
+      "battles": 8374,
+      "winrate": 51.64795796513017,
       "avgDmg": 1260,
       "topSpg": {
         "name": "M53/M55",
@@ -1236,16 +1251,16 @@
       }
     },
     {
-      "id": 500211138,
-      "name": "zbyszkoj",
-      "role_i18n": "Szer.",
-      "battles": 4626,
-      "winrate": 50.51880674448768,
-      "avgDmg": 1525,
+      "id": 519175618,
+      "name": "Aizen1",
+      "role_i18n": "Rekrut",
+      "battles": 982,
+      "winrate": 50,
+      "avgDmg": 802,
       "topSpg": {
-        "name": "212A",
-        "tier": 9,
-        "battles": 804
+        "name": "Conqueror GC",
+        "tier": 10,
+        "battles": 218
       }
     },
     {
