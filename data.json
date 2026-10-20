@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:18:53.270Z",
+  "lastUpdated": "2026-10-20T22:04:05.831Z",
   "dailyDate": "2026-10-20",
   "monthlyDate": "2026-10",
   "daily": {
@@ -1227,7 +1227,7 @@
     {
       "id": 527754688,
       "name": "Ksieciunio_",
-      "role_i18n": "Młodszy oficer",
+      "role_i18n": "Oficer bojowy",
       "battles": 885,
       "winrate": 56.045197740113,
       "avgDmg": 1223,
