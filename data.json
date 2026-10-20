@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T13:17:51.837Z",
+  "lastUpdated": "2026-10-20T18:18:53.270Z",
   "dailyDate": "2026-10-20",
   "monthlyDate": "2026-10",
   "daily": {
@@ -659,7 +659,7 @@
     {
       "id": 551910619,
       "name": "ZooMek19",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 438,
       "winrate": 50,
       "avgDmg": 1510,
@@ -968,8 +968,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21622,
-      "winrate": 51.69734529645731,
+      "battles": 21623,
+      "winrate": 51.69957915182907,
       "avgDmg": 1217,
       "topSpg": {
         "name": "FV3805",
@@ -1431,7 +1431,7 @@
     {
       "id": 677779711,
       "name": "_Lucky2023",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 0,
       "winrate": 0,
       "avgDmg": 0,
