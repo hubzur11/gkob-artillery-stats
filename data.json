@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T07:06:28.504Z",
+  "lastUpdated": "2026-10-20T13:17:51.837Z",
   "dailyDate": "2026-10-20",
   "monthlyDate": "2026-10",
   "daily": {
@@ -725,8 +725,8 @@
       "id": 502782205,
       "name": "SonyChief",
       "role_i18n": "Rekrut",
-      "battles": 8304,
-      "winrate": 50.38535645472062,
+      "battles": 8305,
+      "winrate": 50.379289584587596,
       "avgDmg": 1565,
       "topSpg": {
         "name": "Obj. 261",
