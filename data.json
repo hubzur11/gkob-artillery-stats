@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T20:25:21.683Z",
+  "lastUpdated": "2026-10-22T23:52:24.473Z",
   "dailyDate": "2026-10-22",
   "monthlyDate": "2026-10",
   "daily": {
@@ -647,10 +647,14 @@
       "id": 506043609,
       "name": "CHOJRAK_TCHORZLIWY_LAJT",
       "role_i18n": "Szer.",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
+      "battles": 6396,
+      "winrate": 51.32895559724828,
+      "avgDmg": 1376,
+      "topSpg": {
+        "name": "M53/M55",
+        "tier": 9,
+        "battles": 2290
+      }
     },
     {
       "id": 551910619,
@@ -938,13 +942,13 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3059,
-      "winrate": 52.3700555737169,
-      "avgDmg": 1386,
+      "battles": 3062,
+      "winrate": 52.38406270411495,
+      "avgDmg": 1387,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
-        "battles": 588
+        "battles": 591
       }
     },
     {
