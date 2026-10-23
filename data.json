@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T18:53:03.824Z",
+  "lastUpdated": "2026-10-23T21:50:25.177Z",
   "dailyDate": "2026-10-23",
   "monthlyDate": "2026-10",
   "daily": {
@@ -942,13 +942,13 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3062,
-      "winrate": 52.38406270411495,
-      "avgDmg": 1387,
+      "battles": 3064,
+      "winrate": 52.34986945169713,
+      "avgDmg": 1388,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
-        "battles": 591
+        "battles": 593
       }
     },
     {
@@ -968,8 +968,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21627,
-      "winrate": 51.69926480787904,
+      "battles": 21629,
+      "winrate": 51.699107679504365,
       "avgDmg": 1217,
       "topSpg": {
         "name": "FV3805",
