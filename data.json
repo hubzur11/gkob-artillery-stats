@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T14:14:44.272Z",
+  "lastUpdated": "2026-10-24T17:48:24.928Z",
   "dailyDate": "2026-10-24",
   "monthlyDate": "2026-10",
   "daily": {
@@ -725,8 +725,8 @@
       "id": 502782205,
       "name": "SonyChief",
       "role_i18n": "Rekrut",
-      "battles": 8305,
-      "winrate": 50.379289584587596,
+      "battles": 8306,
+      "winrate": 50.38526366482061,
       "avgDmg": 1565,
       "topSpg": {
         "name": "Obj. 261",
@@ -868,8 +868,8 @@
       "id": 503424315,
       "name": "blavood",
       "role_i18n": "Szer.",
-      "battles": 8376,
-      "winrate": 51.65950334288443,
+      "battles": 8377,
+      "winrate": 51.665273964426405,
       "avgDmg": 1260,
       "topSpg": {
         "name": "M53/M55",
