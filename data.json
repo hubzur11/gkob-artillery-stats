@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T17:48:24.928Z",
+  "lastUpdated": "2026-10-24T20:09:17.305Z",
   "dailyDate": "2026-10-24",
   "monthlyDate": "2026-10",
   "daily": {
@@ -1202,8 +1202,8 @@
       "id": 509610429,
       "name": "Ezio999",
       "role_i18n": "Rekrut",
-      "battles": 6385,
-      "winrate": 52.3257635082224,
+      "battles": 6386,
+      "winrate": 52.33322893830253,
       "avgDmg": 1142,
       "topSpg": {
         "name": "Conqueror GC",
