@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T00:47:31.807Z",
+  "lastUpdated": "2026-10-25T05:38:26.331Z",
   "dailyDate": "2026-10-25",
   "monthlyDate": "2026-10",
   "daily": {
@@ -467,9 +467,9 @@
       "id": 502664328,
       "name": "zajaczeks",
       "role_i18n": "Zastępca dowódcy",
-      "battles": 2637,
-      "winrate": 50.96700796359499,
-      "avgDmg": 900,
+      "battles": 2640,
+      "winrate": 50.90909090909091,
+      "avgDmg": 901,
       "topSpg": {
         "name": "G.W. Tiger",
         "tier": 9,
@@ -636,8 +636,8 @@
       "id": 502604499,
       "name": "Binio_1978",
       "role_i18n": "Szer.",
-      "battles": 7427,
-      "winrate": 51.8244243974687,
+      "battles": 7428,
+      "winrate": 51.81744749596123,
       "avgDmg": 1225,
       "topSpg": {
         "name": "M53/M55",
