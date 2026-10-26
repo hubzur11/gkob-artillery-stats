@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T08:46:30.435Z",
+  "lastUpdated": "2026-10-26T15:49:29.869Z",
   "dailyDate": "2026-10-26",
   "monthlyDate": "2026-10",
   "daily": {
@@ -1259,7 +1259,7 @@
     {
       "id": 509610429,
       "name": "Ezio999",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 6386,
       "winrate": 52.33322893830253,
       "avgDmg": 1142,
@@ -1450,7 +1450,7 @@
     {
       "id": 576437236,
       "name": "HaterBlack",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 78,
       "winrate": 46.15384615384615,
       "avgDmg": 1131,
@@ -1476,7 +1476,7 @@
     {
       "id": 518473722,
       "name": "poncjusz_pijak",
-      "role_i18n": "Rekrut",
+      "role_i18n": "Rezerwista",
       "battles": 2372,
       "winrate": 55.05902192242833,
       "avgDmg": 1333,
