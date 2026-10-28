@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T19:19:47.449Z",
+  "lastUpdated": "2026-10-28T23:52:55.256Z",
   "dailyDate": "2026-10-28",
   "monthlyDate": "2026-10",
   "daily": {
@@ -913,8 +913,8 @@
       "id": 503424315,
       "name": "blavood",
       "role_i18n": "Szer.",
-      "battles": 8381,
-      "winrate": 51.664479179095565,
+      "battles": 8382,
+      "winrate": 51.670245764733956,
       "avgDmg": 1260,
       "topSpg": {
         "name": "M53/M55",
@@ -1026,8 +1026,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21629,
-      "winrate": 51.699107679504365,
+      "battles": 21632,
+      "winrate": 51.69656065088757,
       "avgDmg": 1217,
       "topSpg": {
         "name": "FV3805",
@@ -1065,8 +1065,8 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12464,
-      "winrate": 56.25802310654685,
+      "battles": 12469,
+      "winrate": 56.25150372924853,
       "avgDmg": 1465,
       "topSpg": {
         "name": "Obj. 261",
