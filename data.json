@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T11:17:36.464Z",
+  "lastUpdated": "2026-10-29T17:59:29.395Z",
   "dailyDate": "2026-10-29",
   "monthlyDate": "2026-10",
   "daily": {
@@ -770,8 +770,8 @@
       "id": 502782205,
       "name": "SonyChief",
       "role_i18n": "Rekrut",
-      "battles": 8307,
-      "winrate": 50.37919826652221,
+      "battles": 8308,
+      "winrate": 50.385170919595566,
       "avgDmg": 1565,
       "topSpg": {
         "name": "Obj. 261",
@@ -835,8 +835,8 @@
       "id": 506116362,
       "name": "warzywo359",
       "role_i18n": "Szer.",
-      "battles": 3999,
-      "winrate": 48.66216554138534,
+      "battles": 4000,
+      "winrate": 48.65,
       "avgDmg": 976,
       "topSpg": {
         "name": "B-C 155 55",
