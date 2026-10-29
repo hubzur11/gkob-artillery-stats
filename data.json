@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T17:59:29.395Z",
+  "lastUpdated": "2026-10-29T22:36:43.211Z",
   "dailyDate": "2026-10-29",
   "monthlyDate": "2026-10",
   "daily": {
@@ -302,9 +302,9 @@
       "id": 714161174,
       "name": "Zakolini9kPrykPL4YeR",
       "role_i18n": "Szer.",
-      "battles": 7,
-      "winrate": 57.14285714285714,
-      "avgDmg": 848,
+      "battles": 13,
+      "winrate": 46.15384615384615,
+      "avgDmg": 914,
       "topSpg": {
         "name": "SU-14-1",
         "tier": 7,
@@ -1026,8 +1026,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21632,
-      "winrate": 51.69656065088757,
+      "battles": 21633,
+      "winrate": 51.69879350991541,
       "avgDmg": 1217,
       "topSpg": {
         "name": "FV3805",
@@ -1299,9 +1299,9 @@
       "id": 502099399,
       "name": "__its_StRabo0__",
       "role_i18n": "Rekrut",
-      "battles": 2087,
-      "winrate": 52.13224724484906,
-      "avgDmg": 967,
+      "battles": 2088,
+      "winrate": 52.10727969348659,
+      "avgDmg": 966,
       "topSpg": {
         "name": "FV304",
         "tier": 6,
