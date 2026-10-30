@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T02:24:08.990Z",
+  "lastUpdated": "2026-10-30T09:33:30.540Z",
   "dailyDate": "2026-10-30",
   "monthlyDate": "2026-10",
   "daily": {
@@ -302,9 +302,9 @@
       "id": 714161174,
       "name": "Zakolini9kPrykPL4YeR",
       "role_i18n": "Szer.",
-      "battles": 24,
-      "winrate": 45.83333333333333,
-      "avgDmg": 893,
+      "battles": 25,
+      "winrate": 48,
+      "avgDmg": 939,
       "topSpg": {
         "name": "AMX 13 F3",
         "tier": 6,
