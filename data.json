@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T16:31:26.193Z",
+  "lastUpdated": "2026-10-30T21:23:04.326Z",
   "dailyDate": "2026-10-30",
   "monthlyDate": "2026-10",
   "daily": {
@@ -1026,8 +1026,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21633,
-      "winrate": 51.69879350991541,
+      "battles": 21636,
+      "winrate": 51.69624699574783,
       "avgDmg": 1217,
       "topSpg": {
         "name": "FV3805",
@@ -1065,8 +1065,8 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12473,
-      "winrate": 56.24949891766215,
+      "battles": 12477,
+      "winrate": 56.255510138655126,
       "avgDmg": 1465,
       "topSpg": {
         "name": "Obj. 261",
