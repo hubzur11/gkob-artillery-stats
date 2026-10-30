@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T09:33:30.540Z",
+  "lastUpdated": "2026-10-30T16:31:26.193Z",
   "dailyDate": "2026-10-30",
   "monthlyDate": "2026-10",
   "daily": {
@@ -302,13 +302,13 @@
       "id": 714161174,
       "name": "Zakolini9kPrykPL4YeR",
       "role_i18n": "Szer.",
-      "battles": 25,
-      "winrate": 48,
-      "avgDmg": 939,
+      "battles": 28,
+      "winrate": 50,
+      "avgDmg": 857,
       "topSpg": {
-        "name": "AMX 13 F3",
-        "tier": 6,
-        "battles": 8
+        "name": "Lorr. 155 51",
+        "tier": 8,
+        "battles": 9
       }
     },
     {
@@ -1065,8 +1065,8 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12469,
-      "winrate": 56.25150372924853,
+      "battles": 12473,
+      "winrate": 56.24949891766215,
       "avgDmg": 1465,
       "topSpg": {
         "name": "Obj. 261",
