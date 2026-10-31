@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T14:22:59.635Z",
+  "lastUpdated": "2026-10-31T19:04:22.996Z",
   "dailyDate": "2026-10-31",
   "monthlyDate": "2026-10",
   "daily": {
@@ -62,10 +62,10 @@
     "517088569": 5103,
     "517961676": 891,
     "518289414": 1652,
-    "518473722": 2372,
     "519015115": 1771,
     "519175618": 982,
     "519675313": 2332,
+    "523842588": 677,
     "524710765": 543,
     "525505288": 2052,
     "525520969": 1026,
@@ -164,10 +164,10 @@
     "517088569": 5103,
     "517961676": 891,
     "518289414": 1652,
-    "518473722": 2372,
     "519015115": 1770,
     "519175618": 982,
     "519675313": 2332,
+    "523842588": 677,
     "524710765": 542,
     "525505288": 2052,
     "525520969": 1023,
@@ -301,7 +301,7 @@
     {
       "id": 714161174,
       "name": "Zakolini9kPrykPL4YeR",
-      "role_i18n": "Szer.",
+      "role_i18n": "Rezerwista",
       "battles": 28,
       "winrate": 50,
       "avgDmg": 857,
@@ -322,6 +322,19 @@
         "name": "G.W. E 100",
         "tier": 10,
         "battles": 4219
+      }
+    },
+    {
+      "id": 523842588,
+      "name": "OkoJusDreinJusDaun",
+      "role_i18n": "Rekrut",
+      "battles": 677,
+      "winrate": 55.24372230428361,
+      "avgDmg": 1222,
+      "topSpg": {
+        "name": "M40/M43",
+        "tier": 8,
+        "battles": 186
       }
     },
     {
@@ -717,7 +730,7 @@
     {
       "id": 562483434,
       "name": "kokolifx414",
-      "role_i18n": "Szer.",
+      "role_i18n": "Rezerwista",
       "battles": 378,
       "winrate": 55.55555555555556,
       "avgDmg": 845,
@@ -756,7 +769,7 @@
     {
       "id": 500257019,
       "name": "Ryb4",
-      "role_i18n": "Zastępca dowódcy",
+      "role_i18n": "Rezerwista",
       "battles": 923,
       "winrate": 49.29577464788733,
       "avgDmg": 800,
@@ -1000,9 +1013,9 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3076,
-      "winrate": 52.3407022106632,
-      "avgDmg": 1389,
+      "battles": 3077,
+      "winrate": 52.35619109522261,
+      "avgDmg": 1390,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
@@ -1129,7 +1142,7 @@
     {
       "id": 501862274,
       "name": "piotrek553",
-      "role_i18n": "Szer.",
+      "role_i18n": "Rezerwista",
       "battles": 5381,
       "winrate": 48.72700241590782,
       "avgDmg": 880,
@@ -1233,7 +1246,7 @@
     {
       "id": 514265529,
       "name": "Ahzrak",
-      "role_i18n": "Szer.",
+      "role_i18n": "Rezerwista",
       "battles": 169,
       "winrate": 50.887573964497044,
       "avgDmg": 907,
@@ -1464,26 +1477,13 @@
       "id": 502567417,
       "name": "marekel1",
       "role_i18n": "Szer.",
-      "battles": 7201,
-      "winrate": 52.57603110679072,
+      "battles": 7202,
+      "winrate": 52.568730908081086,
       "avgDmg": 1548,
       "topSpg": {
         "name": "Conqueror GC",
         "tier": 10,
         "battles": 1287
-      }
-    },
-    {
-      "id": 518473722,
-      "name": "poncjusz_pijak",
-      "role_i18n": "Rezerwista",
-      "battles": 2372,
-      "winrate": 55.05902192242833,
-      "avgDmg": 1333,
-      "topSpg": {
-        "name": "Conqueror GC",
-        "tier": 10,
-        "battles": 460
       }
     },
     {
