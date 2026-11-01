@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T11:39:25.637Z",
+  "lastUpdated": "2026-11-01T17:35:36.620Z",
   "dailyDate": "2026-11-01",
   "monthlyDate": "2026-11",
   "daily": {
@@ -623,8 +623,8 @@
       "id": 519015115,
       "name": "EnDi_CoronaSwirus",
       "role_i18n": "Szer.",
-      "battles": 1771,
-      "winrate": 49.85883681535855,
+      "battles": 1772,
+      "winrate": 49.83069977426637,
       "avgDmg": 945,
       "topSpg": {
         "name": "M53/M55",
@@ -844,8 +844,8 @@
       "id": 506116362,
       "name": "warzywo359",
       "role_i18n": "Szer.",
-      "battles": 4000,
-      "winrate": 48.65,
+      "battles": 4001,
+      "winrate": 48.63784053986503,
       "avgDmg": 976,
       "topSpg": {
         "name": "B-C 155 55",
@@ -1009,9 +1009,9 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3078,
-      "winrate": 52.33918128654971,
-      "avgDmg": 1390,
+      "battles": 3083,
+      "winrate": 52.351605578981506,
+      "avgDmg": 1391,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
