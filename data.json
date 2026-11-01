@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T17:35:36.620Z",
+  "lastUpdated": "2026-11-01T21:39:21.171Z",
   "dailyDate": "2026-11-01",
   "monthlyDate": "2026-11",
   "daily": {
@@ -297,7 +297,7 @@
     {
       "id": 714161174,
       "name": "Zakolini9kPrykPL4YeR",
-      "role_i18n": "Rezerwista",
+      "role_i18n": "Szer.",
       "battles": 28,
       "winrate": 50,
       "avgDmg": 857,
@@ -389,13 +389,13 @@
       "id": 500508215,
       "name": "Kachel123",
       "role_i18n": "Rezerwista",
-      "battles": 8327,
-      "winrate": 50.7025339257836,
-      "avgDmg": 1429,
+      "battles": 8334,
+      "winrate": 50.68394528437725,
+      "avgDmg": 1430,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
-        "battles": 1352
+        "battles": 1357
       }
     },
     {
@@ -753,9 +753,9 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4763,
-      "winrate": 49.17069074112954,
-      "avgDmg": 995,
+      "battles": 4771,
+      "winrate": 49.15112135820583,
+      "avgDmg": 994,
       "topSpg": {
         "name": "G.W. Panther",
         "tier": 7,
@@ -1009,8 +1009,8 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3083,
-      "winrate": 52.351605578981506,
+      "battles": 3084,
+      "winrate": 52.367055771725035,
       "avgDmg": 1391,
       "topSpg": {
         "name": "T92 HMC",
