@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T01:13:23.712Z",
+  "lastUpdated": "2026-11-02T08:49:20.500Z",
   "dailyDate": "2026-11-02",
   "monthlyDate": "2026-11",
   "daily": {
@@ -1009,8 +1009,8 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3094,
-      "winrate": 52.35940530058178,
+      "battles": 3097,
+      "winrate": 52.34097513722957,
       "avgDmg": 1393,
       "topSpg": {
         "name": "T92 HMC",
