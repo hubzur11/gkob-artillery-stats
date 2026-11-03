@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T17:30:56.285Z",
+  "lastUpdated": "2026-11-03T22:51:33.998Z",
   "dailyDate": "2026-11-03",
   "monthlyDate": "2026-11",
   "daily": {
@@ -666,8 +666,8 @@
       "id": 502604499,
       "name": "Binio_1978",
       "role_i18n": "Szer.",
-      "battles": 7444,
-      "winrate": 51.81354110693176,
+      "battles": 7445,
+      "winrate": 51.80658159838818,
       "avgDmg": 1225,
       "topSpg": {
         "name": "M53/M55",
@@ -1052,8 +1052,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21639,
-      "winrate": 51.693701187670406,
+      "battles": 21642,
+      "winrate": 51.69577673043156,
       "avgDmg": 1217,
       "topSpg": {
         "name": "FV3805",
