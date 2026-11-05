@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T16:02:57.467Z",
+  "lastUpdated": "2026-11-05T22:30:26.284Z",
   "dailyDate": "2026-11-05",
   "monthlyDate": "2026-11",
   "daily": {
@@ -922,8 +922,8 @@
       "id": 503424315,
       "name": "blavood",
       "role_i18n": "Szer.",
-      "battles": 8383,
-      "winrate": 51.676010974591435,
+      "battles": 8384,
+      "winrate": 51.66984732824428,
       "avgDmg": 1260,
       "topSpg": {
         "name": "M53/M55",
@@ -1100,13 +1100,13 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12480,
-      "winrate": 56.25,
+      "battles": 12481,
+      "winrate": 56.245493149587375,
       "avgDmg": 1465,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 5705
+        "battles": 5706
       }
     },
     {
