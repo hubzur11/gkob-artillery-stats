@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T17:22:41.124Z",
+  "lastUpdated": "2026-11-07T21:24:22.669Z",
   "dailyDate": "2026-11-07",
   "monthlyDate": "2026-11",
   "daily": {
@@ -1449,8 +1449,8 @@
       "id": 500622830,
       "name": "KONAN3000",
       "role_i18n": "Szer.",
-      "battles": 2598,
-      "winrate": 49.230177059276365,
+      "battles": 2599,
+      "winrate": 49.24971142747211,
       "avgDmg": 965,
       "topSpg": {
         "name": "212A",
