@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T04:27:46.177Z",
+  "lastUpdated": "2026-11-07T11:28:45.418Z",
   "dailyDate": "2026-11-07",
   "monthlyDate": "2026-11",
   "daily": {
@@ -469,13 +469,13 @@
       "id": 505734672,
       "name": "Goolus",
       "role_i18n": "Szer.",
-      "battles": 2598,
-      "winrate": 52.34795996920708,
-      "avgDmg": 1248,
+      "battles": 2599,
+      "winrate": 52.36629472874183,
+      "avgDmg": 1247,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 306
+        "battles": 307
       }
     },
     {
