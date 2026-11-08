@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T15:45:49.600Z",
+  "lastUpdated": "2026-11-08T20:08:31.717Z",
   "dailyDate": "2026-11-08",
   "monthlyDate": "2026-11",
   "daily": {
@@ -100,6 +100,7 @@
     "584193648": 0,
     "684339074": 136,
     "692267389": 20,
+    "697169137": 0,
     "714161174": 28,
     "720440831": 0
   },
@@ -201,6 +202,7 @@
     "584193648": 0,
     "684339074": 136,
     "692267389": 20,
+    "697169137": 0,
     "714161174": 28,
     "720440831": 0
   },
@@ -248,13 +250,13 @@
       "id": 506685964,
       "name": "patijass",
       "role_i18n": "Oficer bojowy",
-      "battles": 3173,
-      "winrate": 47.68358020800505,
-      "avgDmg": 745,
+      "battles": 3179,
+      "winrate": 47.782321484743626,
+      "avgDmg": 746,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 298
+        "battles": 304
       }
     },
     {
@@ -748,6 +750,15 @@
       }
     },
     {
+      "id": 697169137,
+      "name": "Sokyre_The_White_Goat",
+      "role_i18n": "Rekrut",
+      "battles": 0,
+      "winrate": 0,
+      "avgDmg": 0,
+      "topSpg": null
+    },
+    {
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
@@ -1085,13 +1096,13 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12482,
-      "winrate": 56.248998557923414,
+      "battles": 12485,
+      "winrate": 56.24349219062875,
       "avgDmg": 1465,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 5706
+        "battles": 5707
       }
     },
     {
