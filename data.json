@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T08:31:27.156Z",
+  "lastUpdated": "2026-11-08T15:45:49.600Z",
   "dailyDate": "2026-11-08",
   "monthlyDate": "2026-11",
   "daily": {
@@ -248,8 +248,8 @@
       "id": 506685964,
       "name": "patijass",
       "role_i18n": "Oficer bojowy",
-      "battles": 3169,
-      "winrate": 47.64910066266961,
+      "battles": 3173,
+      "winrate": 47.68358020800505,
       "avgDmg": 745,
       "topSpg": {
         "name": "Obj. 261",
@@ -1020,8 +1020,8 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3104,
-      "winrate": 52.31958762886598,
+      "battles": 3105,
+      "winrate": 52.33494363929147,
       "avgDmg": 1393,
       "topSpg": {
         "name": "T92 HMC",
@@ -1046,8 +1046,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21643,
-      "winrate": 51.69800859400267,
+      "battles": 21646,
+      "winrate": 51.70008315624134,
       "avgDmg": 1218,
       "topSpg": {
         "name": "FV3805",
