@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T01:52:38.586Z",
+  "lastUpdated": "2026-11-10T09:10:08.134Z",
   "dailyDate": "2026-11-10",
   "monthlyDate": "2026-11",
   "daily": {
@@ -367,8 +367,8 @@
       "id": 542241836,
       "name": "wombat__maly",
       "role_i18n": "Szer.",
-      "battles": 1517,
-      "winrate": 47.85761371127224,
+      "battles": 1518,
+      "winrate": 47.82608695652174,
       "avgDmg": 805,
       "topSpg": {
         "name": "Bishop",
