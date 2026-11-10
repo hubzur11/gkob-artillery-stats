@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T09:10:08.134Z",
+  "lastUpdated": "2026-11-10T17:27:50.583Z",
   "dailyDate": "2026-11-10",
   "monthlyDate": "2026-11",
   "daily": {
@@ -762,9 +762,9 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4771,
-      "winrate": 49.15112135820583,
-      "avgDmg": 994,
+      "battles": 4773,
+      "winrate": 49.1514770584538,
+      "avgDmg": 995,
       "topSpg": {
         "name": "G.W. Panther",
         "tier": 7,
@@ -1369,8 +1369,8 @@
       "id": 507762126,
       "name": "deo100",
       "role_i18n": "Młodszy oficer",
-      "battles": 3926,
-      "winrate": 49.87264391237901,
+      "battles": 3927,
+      "winrate": 49.85994397759104,
       "avgDmg": 881,
       "topSpg": {
         "name": "AMX 13 F3",
