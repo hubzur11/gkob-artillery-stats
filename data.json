@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T10:15:13.482Z",
+  "lastUpdated": "2026-11-11T18:20:13.743Z",
   "dailyDate": "2026-11-11",
   "monthlyDate": "2026-11",
   "daily": {
@@ -679,8 +679,8 @@
       "id": 502604499,
       "name": "Binio_1978",
       "role_i18n": "Szer.",
-      "battles": 7450,
-      "winrate": 51.8255033557047,
+      "battles": 7454,
+      "winrate": 51.82452374563993,
       "avgDmg": 1226,
       "topSpg": {
         "name": "M53/M55",
@@ -1165,9 +1165,9 @@
       "id": 501862274,
       "name": "piotrek553",
       "role_i18n": "Rezerwista",
-      "battles": 5388,
-      "winrate": 48.73793615441722,
-      "avgDmg": 880,
+      "battles": 5391,
+      "winrate": 48.76646262289,
+      "avgDmg": 881,
       "topSpg": {
         "name": "Conqueror GC",
         "tier": 10,
