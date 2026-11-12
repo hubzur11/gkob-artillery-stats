@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T17:54:08.407Z",
+  "lastUpdated": "2026-11-12T23:10:12.317Z",
   "dailyDate": "2026-11-12",
   "monthlyDate": "2026-11",
   "daily": {
@@ -751,8 +751,8 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4773,
-      "winrate": 49.1514770584538,
+      "battles": 4775,
+      "winrate": 49.15183246073298,
       "avgDmg": 995,
       "topSpg": {
         "name": "G.W. Panther",
@@ -1033,8 +1033,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21648,
-      "winrate": 51.69992609016999,
+      "battles": 21649,
+      "winrate": 51.69753799251697,
       "avgDmg": 1218,
       "topSpg": {
         "name": "FV3805",
