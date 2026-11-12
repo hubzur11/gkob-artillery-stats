@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T09:13:27.530Z",
+  "lastUpdated": "2026-11-12T17:54:08.407Z",
   "dailyDate": "2026-11-12",
   "monthlyDate": "2026-11",
   "daily": {
@@ -248,13 +248,13 @@
       "id": 506685964,
       "name": "patijass",
       "role_i18n": "Oficer bojowy",
-      "battles": 3179,
-      "winrate": 47.782321484743626,
+      "battles": 3180,
+      "winrate": 47.76729559748428,
       "avgDmg": 746,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 304
+        "battles": 305
       }
     },
     {
@@ -1085,13 +1085,13 @@
       "id": 524710765,
       "name": "Waffle_OG",
       "role_i18n": "Szer.",
-      "battles": 552,
-      "winrate": 51.08695652173913,
-      "avgDmg": 1040,
+      "battles": 555,
+      "winrate": 50.810810810810814,
+      "avgDmg": 1048,
       "topSpg": {
         "name": "Conqueror GC",
         "tier": 10,
-        "battles": 192
+        "battles": 193
       }
     },
     {
