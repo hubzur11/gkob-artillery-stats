@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T04:53:16.734Z",
+  "lastUpdated": "2026-11-13T12:50:50.393Z",
   "dailyDate": "2026-11-13",
   "monthlyDate": "2026-11",
   "daily": {
@@ -248,13 +248,13 @@
       "id": 506685964,
       "name": "patijass",
       "role_i18n": "Oficer bojowy",
-      "battles": 3180,
-      "winrate": 47.76729559748428,
+      "battles": 3182,
+      "winrate": 47.73727215587681,
       "avgDmg": 746,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 305
+        "battles": 307
       }
     },
     {
@@ -751,8 +751,8 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4775,
-      "winrate": 49.15183246073298,
+      "battles": 4776,
+      "winrate": 49.141541038525965,
       "avgDmg": 995,
       "topSpg": {
         "name": "G.W. Panther",
