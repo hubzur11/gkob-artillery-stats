@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T15:31:15.086Z",
+  "lastUpdated": "2026-11-14T20:22:59.160Z",
   "dailyDate": "2026-11-14",
   "monthlyDate": "2026-11",
   "daily": {
@@ -73,6 +73,8 @@
     "536123455": 284,
     "537839824": 443,
     "538047750": 5031,
+    "540451951": 1660,
+    "541545643": 2065,
     "542000050": 2084,
     "542241836": 1518,
     "546702146": 51,
@@ -172,6 +174,8 @@
     "536123455": 284,
     "537839824": 443,
     "538047750": 5031,
+    "540451951": 1660,
+    "541545643": 2065,
     "542000050": 2084,
     "542241836": 1517,
     "546702146": 51,
@@ -471,6 +475,19 @@
       }
     },
     {
+      "id": 540451951,
+      "name": "Mati_The_White_Turtle",
+      "role_i18n": "Rekrut",
+      "battles": 1660,
+      "winrate": 50.48192771084338,
+      "avgDmg": 1020,
+      "topSpg": {
+        "name": "S-51",
+        "tier": 7,
+        "battles": 269
+      }
+    },
+    {
       "id": 509343868,
       "name": "hubzur11",
       "role_i18n": "Zastępca dowódcy",
@@ -559,6 +576,19 @@
         "name": "Obj. 261",
         "tier": 10,
         "battles": 164
+      }
+    },
+    {
+      "id": 541545643,
+      "name": "Chimek_342",
+      "role_i18n": "Rekrut",
+      "battles": 2065,
+      "winrate": 49.346246973365616,
+      "avgDmg": 502,
+      "topSpg": {
+        "name": "M12",
+        "tier": 7,
+        "battles": 167
       }
     },
     {
@@ -885,7 +915,7 @@
     {
       "id": 547909417,
       "name": "Okrutnik_z_Wadowic_",
-      "role_i18n": "Oficer rekrutacyjny",
+      "role_i18n": "Oficer bojowy",
       "battles": 864,
       "winrate": 51.736111111111114,
       "avgDmg": 845,
@@ -1051,13 +1081,13 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12487,
-      "winrate": 56.25050052054136,
-      "avgDmg": 1465,
+      "battles": 12491,
+      "winrate": 56.24849891922183,
+      "avgDmg": 1466,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 5708
+        "battles": 5710
       }
     },
     {
@@ -1115,7 +1145,7 @@
     {
       "id": 692267389,
       "name": "reksiov2",
-      "role_i18n": "Oficer bojowy",
+      "role_i18n": "Oficer rekrutacyjny",
       "battles": 20,
       "winrate": 50,
       "avgDmg": 825,
