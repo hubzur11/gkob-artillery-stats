@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T08:31:54.523Z",
+  "lastUpdated": "2026-11-14T15:31:15.086Z",
   "dailyDate": "2026-11-14",
   "monthlyDate": "2026-11",
   "daily": {
@@ -348,8 +348,8 @@
       "id": 542241836,
       "name": "wombat__maly",
       "role_i18n": "Szer.",
-      "battles": 1518,
-      "winrate": 47.82608695652174,
+      "battles": 1519,
+      "winrate": 47.794601711652405,
       "avgDmg": 805,
       "topSpg": {
         "name": "Bishop",
@@ -461,13 +461,13 @@
       "id": 505734672,
       "name": "Goolus",
       "role_i18n": "Szer.",
-      "battles": 2601,
-      "winrate": 52.32602845059593,
+      "battles": 2602,
+      "winrate": 52.305918524212146,
       "avgDmg": 1247,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 308
+        "battles": 309
       }
     },
     {
@@ -1428,8 +1428,8 @@
       "id": 502567417,
       "name": "marekel1",
       "role_i18n": "Szer.",
-      "battles": 7203,
-      "winrate": 52.56143273635985,
+      "battles": 7204,
+      "winrate": 52.56801776790672,
       "avgDmg": 1548,
       "topSpg": {
         "name": "Conqueror GC",
