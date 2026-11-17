@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T10:06:27.697Z",
+  "lastUpdated": "2026-11-17T19:35:01.166Z",
   "dailyDate": "2026-11-17",
   "monthlyDate": "2026-11",
   "daily": {
@@ -505,7 +505,7 @@
     {
       "id": 500211138,
       "name": "zbyszkoj",
-      "role_i18n": "Oficer bojowy",
+      "role_i18n": "Młodszy oficer",
       "battles": 4626,
       "winrate": 50.51880674448768,
       "avgDmg": 1525,
@@ -1027,8 +1027,8 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3105,
-      "winrate": 52.33494363929147,
+      "battles": 3106,
+      "winrate": 52.31809401159047,
       "avgDmg": 1393,
       "topSpg": {
         "name": "T92 HMC",
@@ -1105,9 +1105,9 @@
       "id": 528775028,
       "name": "zati31",
       "role_i18n": "Szer.",
-      "battles": 1336,
-      "winrate": 51.19760479041916,
-      "avgDmg": 681,
+      "battles": 1337,
+      "winrate": 51.2341062079282,
+      "avgDmg": 682,
       "topSpg": {
         "name": "M44",
         "tier": 6,
@@ -1182,7 +1182,7 @@
     {
       "id": 514702739,
       "name": "Sasiad44",
-      "role_i18n": "Oficer bojowy",
+      "role_i18n": "Młodszy oficer",
       "battles": 3332,
       "winrate": 49.039615846338535,
       "avgDmg": 928,
