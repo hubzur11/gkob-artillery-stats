@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T11:02:52.195Z",
+  "lastUpdated": "2026-11-18T19:55:29.197Z",
   "dailyDate": "2026-11-18",
   "monthlyDate": "2026-11",
   "daily": {
@@ -1027,8 +1027,8 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3106,
-      "winrate": 52.31809401159047,
+      "battles": 3108,
+      "winrate": 52.28442728442728,
       "avgDmg": 1393,
       "topSpg": {
         "name": "T92 HMC",
@@ -1040,8 +1040,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21655,
-      "winrate": 51.69706765181251,
+      "battles": 21660,
+      "winrate": 51.694367497691594,
       "avgDmg": 1218,
       "topSpg": {
         "name": "FV3805",
@@ -1105,8 +1105,8 @@
       "id": 528775028,
       "name": "zati31",
       "role_i18n": "Szer.",
-      "battles": 1337,
-      "winrate": 51.2341062079282,
+      "battles": 1341,
+      "winrate": 51.1558538404176,
       "avgDmg": 682,
       "topSpg": {
         "name": "M44",
@@ -1183,8 +1183,8 @@
       "id": 514702739,
       "name": "Sasiad44",
       "role_i18n": "Młodszy oficer",
-      "battles": 3332,
-      "winrate": 49.039615846338535,
+      "battles": 3333,
+      "winrate": 49.02490249024902,
       "avgDmg": 928,
       "topSpg": {
         "name": "G.W. Tiger P",
@@ -1365,8 +1365,8 @@
       "id": 507762126,
       "name": "deo100",
       "role_i18n": "Młodszy oficer",
-      "battles": 3927,
-      "winrate": 49.85994397759104,
+      "battles": 3936,
+      "winrate": 49.8729674796748,
       "avgDmg": 881,
       "topSpg": {
         "name": "AMX 13 F3",
