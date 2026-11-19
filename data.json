@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T09:50:02.558Z",
+  "lastUpdated": "2026-11-19T18:49:40.370Z",
   "dailyDate": "2026-11-19",
   "monthlyDate": "2026-11",
   "daily": {
@@ -354,8 +354,8 @@
       "id": 542241836,
       "name": "wombat__maly",
       "role_i18n": "Szer.",
-      "battles": 1520,
-      "winrate": 47.828947368421055,
+      "battles": 1522,
+      "winrate": 47.83180026281209,
       "avgDmg": 806,
       "topSpg": {
         "name": "Bishop",
@@ -1027,9 +1027,9 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3108,
-      "winrate": 52.28442728442728,
-      "avgDmg": 1393,
+      "battles": 3118,
+      "winrate": 52.34124438742784,
+      "avgDmg": 1392,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
@@ -1079,13 +1079,13 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12491,
-      "winrate": 56.24849891922183,
+      "battles": 12496,
+      "winrate": 56.22599231754162,
       "avgDmg": 1466,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 5710
+        "battles": 5712
       }
     },
     {
