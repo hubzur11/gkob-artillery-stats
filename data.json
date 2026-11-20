@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T08:22:08.921Z",
+  "lastUpdated": "2026-11-20T17:30:55.622Z",
   "dailyDate": "2026-11-20",
   "monthlyDate": "2026-11",
   "daily": {
@@ -352,9 +352,9 @@
       "id": 542241836,
       "name": "wombat__maly",
       "role_i18n": "Szer.",
-      "battles": 1522,
-      "winrate": 47.83180026281209,
-      "avgDmg": 806,
+      "battles": 1523,
+      "winrate": 47.86605384110308,
+      "avgDmg": 807,
       "topSpg": {
         "name": "Bishop",
         "tier": 5,
@@ -1012,9 +1012,9 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3118,
-      "winrate": 52.34124438742784,
-      "avgDmg": 1392,
+      "battles": 3137,
+      "winrate": 52.31112527892891,
+      "avgDmg": 1393,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
@@ -1025,8 +1025,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21663,
-      "winrate": 51.7010571019711,
+      "battles": 21664,
+      "winrate": 51.698670605612996,
       "avgDmg": 1218,
       "topSpg": {
         "name": "FV3805",
@@ -1350,8 +1350,8 @@
       "id": 507762126,
       "name": "deo100",
       "role_i18n": "Młodszy oficer",
-      "battles": 3936,
-      "winrate": 49.8729674796748,
+      "battles": 3937,
+      "winrate": 49.885699771399544,
       "avgDmg": 881,
       "topSpg": {
         "name": "AMX 13 F3",
