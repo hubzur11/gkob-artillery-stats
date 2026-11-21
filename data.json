@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T05:28:13.977Z",
+  "lastUpdated": "2026-11-21T14:08:27.820Z",
   "dailyDate": "2026-11-21",
   "monthlyDate": "2026-11",
   "daily": {
@@ -387,8 +387,8 @@
       "id": 500508215,
       "name": "Kachel123",
       "role_i18n": "Rezerwista",
-      "battles": 8348,
-      "winrate": 50.67081935793004,
+      "battles": 8349,
+      "winrate": 50.664750269493354,
       "avgDmg": 1429,
       "topSpg": {
         "name": "T92 HMC",
@@ -1012,8 +1012,8 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3139,
-      "winrate": 52.30965275565467,
+      "battles": 3149,
+      "winrate": 52.270562083201014,
       "avgDmg": 1394,
       "topSpg": {
         "name": "T92 HMC",
@@ -1025,13 +1025,13 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21666,
-      "winrate": 51.69389827379304,
+      "battles": 21672,
+      "winrate": 51.69804355850868,
       "avgDmg": 1218,
       "topSpg": {
         "name": "FV3805",
         "tier": 9,
-        "battles": 5644
+        "battles": 5650
       }
     },
     {
