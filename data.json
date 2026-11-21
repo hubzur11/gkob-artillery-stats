@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T14:08:27.820Z",
+  "lastUpdated": "2026-11-21T20:46:05.864Z",
   "dailyDate": "2026-11-21",
   "monthlyDate": "2026-11",
   "daily": {
@@ -1025,8 +1025,8 @@
       "id": 501395299,
       "name": "rafiko",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 21672,
-      "winrate": 51.69804355850868,
+      "battles": 21673,
+      "winrate": 51.69565819222074,
       "avgDmg": 1218,
       "topSpg": {
         "name": "FV3805",
@@ -1064,13 +1064,13 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12496,
-      "winrate": 56.22599231754162,
+      "battles": 12504,
+      "winrate": 56.23000639795266,
       "avgDmg": 1466,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 5712
+        "battles": 5715
       }
     },
     {
@@ -1350,8 +1350,8 @@
       "id": 507762126,
       "name": "deo100",
       "role_i18n": "Młodszy oficer",
-      "battles": 3937,
-      "winrate": 49.885699771399544,
+      "battles": 3938,
+      "winrate": 49.873031995937026,
       "avgDmg": 881,
       "topSpg": {
         "name": "AMX 13 F3",
@@ -1363,8 +1363,8 @@
       "id": 505811922,
       "name": "_Pif_Paf1978",
       "role_i18n": "Szer.",
-      "battles": 6771,
-      "winrate": 49.593856151233204,
+      "battles": 6772,
+      "winrate": 49.586532782043705,
       "avgDmg": 1316,
       "topSpg": {
         "name": "T92 HMC",
