@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T15:54:03.234Z",
+  "lastUpdated": "2026-11-22T21:29:58.591Z",
   "dailyDate": "2026-11-22",
   "monthlyDate": "2026-11",
   "daily": {
@@ -780,8 +780,8 @@
       "id": 502782205,
       "name": "SonyChief",
       "role_i18n": "Szer.",
-      "battles": 8308,
-      "winrate": 50.385170919595566,
+      "battles": 8309,
+      "winrate": 50.37910699241785,
       "avgDmg": 1565,
       "topSpg": {
         "name": "Obj. 261",
@@ -1335,8 +1335,8 @@
       "id": 507762126,
       "name": "deo100",
       "role_i18n": "Młodszy oficer",
-      "battles": 3946,
-      "winrate": 49.873289406994424,
+      "battles": 3948,
+      "winrate": 49.848024316109424,
       "avgDmg": 881,
       "topSpg": {
         "name": "AMX 13 F3",
