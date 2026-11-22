@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T00:55:13.482Z",
+  "lastUpdated": "2026-11-22T07:44:17.166Z",
   "dailyDate": "2026-11-22",
   "monthlyDate": "2026-11",
   "daily": {
@@ -530,9 +530,9 @@
       "id": 580970642,
       "name": "PABLITTO_pk",
       "role_i18n": "Szer.",
-      "battles": 283,
-      "winrate": 48.0565371024735,
-      "avgDmg": 855,
+      "battles": 284,
+      "winrate": 48.23943661971831,
+      "avgDmg": 856,
       "topSpg": {
         "name": "S-51",
         "tier": 7,
