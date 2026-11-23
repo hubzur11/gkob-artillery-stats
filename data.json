@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T11:44:17.780Z",
+  "lastUpdated": "2026-11-23T23:20:22.521Z",
   "dailyDate": "2026-11-23",
   "monthlyDate": "2026-11",
   "daily": {
@@ -97,8 +97,6 @@
     "684339074": 136,
     "692267389": 20,
     "697169137": 0,
-    "697817510": 39,
-    "710825309": 0,
     "714161174": 28,
     "720440831": 0
   },
@@ -197,8 +195,6 @@
     "684339074": 136,
     "692267389": 20,
     "697169137": 0,
-    "697817510": 39,
-    "710825309": 0,
     "714161174": 28,
     "720440831": 0
   },
@@ -272,9 +268,9 @@
       "id": 500380178,
       "name": "thazz_",
       "role_i18n": "Szer.",
-      "battles": 9554,
-      "winrate": 49.79066359639941,
-      "avgDmg": 1091,
+      "battles": 9560,
+      "winrate": 49.80125523012553,
+      "avgDmg": 1092,
       "topSpg": {
         "name": "SU-8",
         "tier": 6,
@@ -360,15 +356,6 @@
       }
     },
     {
-      "id": 710825309,
-      "name": "iKyzen",
-      "role_i18n": "Rekrut",
-      "battles": 0,
-      "winrate": 0,
-      "avgDmg": 0,
-      "topSpg": null
-    },
-    {
       "id": 512665137,
       "name": "marek98765432",
       "role_i18n": "Szer.",
@@ -437,13 +424,13 @@
       "id": 525520969,
       "name": "___BANDZIOR___",
       "role_i18n": "Szer.",
-      "battles": 1028,
-      "winrate": 48.63813229571984,
+      "battles": 1029,
+      "winrate": 48.590864917395535,
       "avgDmg": 1031,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
-        "battles": 309
+        "battles": 310
       }
     },
     {
@@ -754,8 +741,8 @@
       "id": 509860088,
       "name": "GinekologTwojejStarej",
       "role_i18n": "Szer.",
-      "battles": 4779,
-      "winrate": 49.131617493199414,
+      "battles": 4782,
+      "winrate": 49.12170639899623,
       "avgDmg": 996,
       "topSpg": {
         "name": "G.W. Panther",
@@ -845,8 +832,8 @@
       "id": 506116362,
       "name": "warzywo359",
       "role_i18n": "Szer.",
-      "battles": 4002,
-      "winrate": 48.65067466266866,
+      "battles": 4004,
+      "winrate": 48.651348651348655,
       "avgDmg": 977,
       "topSpg": {
         "name": "B-C 155 55",
@@ -997,13 +984,13 @@
       "id": 533428061,
       "name": "L0vek_Okrutnik",
       "role_i18n": "Oficer werbunkowy",
-      "battles": 3149,
-      "winrate": 52.270562083201014,
-      "avgDmg": 1394,
+      "battles": 3153,
+      "winrate": 52.26768157310499,
+      "avgDmg": 1395,
       "topSpg": {
         "name": "T92 HMC",
         "tier": 10,
-        "battles": 598
+        "battles": 602
       }
     },
     {
@@ -1049,13 +1036,13 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12504,
-      "winrate": 56.23000639795266,
+      "battles": 12507,
+      "winrate": 56.232509794515074,
       "avgDmg": 1466,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 5715
+        "battles": 5716
       }
     },
     {
@@ -1212,19 +1199,6 @@
         "name": "Obj. 261",
         "tier": 10,
         "battles": 266
-      }
-    },
-    {
-      "id": 697817510,
-      "name": "47pawel",
-      "role_i18n": "Rekrut",
-      "battles": 39,
-      "winrate": 51.28205128205128,
-      "avgDmg": 289,
-      "topSpg": {
-        "name": "Bishop",
-        "tier": 5,
-        "battles": 20
       }
     },
     {
