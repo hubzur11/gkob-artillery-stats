@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T08:11:29.988Z",
+  "lastUpdated": "2026-11-24T19:55:47.582Z",
   "dailyDate": "2026-11-24",
   "monthlyDate": "2026-11",
   "daily": {
@@ -268,8 +268,8 @@
       "id": 500380178,
       "name": "thazz_",
       "role_i18n": "Szer.",
-      "battles": 9563,
-      "winrate": 49.81700303252117,
+      "battles": 9568,
+      "winrate": 49.822324414715716,
       "avgDmg": 1092,
       "topSpg": {
         "name": "SU-8",
@@ -832,9 +832,9 @@
       "id": 506116362,
       "name": "warzywo359",
       "role_i18n": "Szer.",
-      "battles": 4004,
-      "winrate": 48.651348651348655,
-      "avgDmg": 977,
+      "battles": 4010,
+      "winrate": 48.65336658354115,
+      "avgDmg": 979,
       "topSpg": {
         "name": "B-C 155 55",
         "tier": 9,
@@ -1322,8 +1322,8 @@
       "id": 505811922,
       "name": "_Pif_Paf1978",
       "role_i18n": "Szer.",
-      "battles": 6772,
-      "winrate": 49.586532782043705,
+      "battles": 6773,
+      "winrate": 49.593976081500074,
       "avgDmg": 1316,
       "topSpg": {
         "name": "T92 HMC",
@@ -1413,8 +1413,8 @@
       "id": 502567417,
       "name": "marekel1",
       "role_i18n": "Szer.",
-      "battles": 7204,
-      "winrate": 52.56801776790672,
+      "battles": 7205,
+      "winrate": 52.56072172102706,
       "avgDmg": 1548,
       "topSpg": {
         "name": "Conqueror GC",
