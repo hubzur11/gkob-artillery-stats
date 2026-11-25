@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T13:52:05.514Z",
+  "lastUpdated": "2026-11-25T22:56:01.749Z",
   "dailyDate": "2026-11-25",
   "monthlyDate": "2026-11",
   "daily": {
@@ -268,9 +268,9 @@
       "id": 500380178,
       "name": "thazz_",
       "role_i18n": "Szer.",
-      "battles": 9568,
-      "winrate": 49.822324414715716,
-      "avgDmg": 1092,
+      "battles": 9581,
+      "winrate": 49.827784156142364,
+      "avgDmg": 1093,
       "topSpg": {
         "name": "SU-8",
         "tier": 6,
@@ -645,8 +645,8 @@
       "id": 502604499,
       "name": "Binio_1978",
       "role_i18n": "Szer.",
-      "battles": 7465,
-      "winrate": 51.84192900200938,
+      "battles": 7481,
+      "winrate": 51.79788798288999,
       "avgDmg": 1226,
       "topSpg": {
         "name": "M53/M55",
@@ -671,9 +671,9 @@
       "id": 551910619,
       "name": "ZooMek19",
       "role_i18n": "Rekrut",
-      "battles": 438,
-      "winrate": 50,
-      "avgDmg": 1510,
+      "battles": 439,
+      "winrate": 50.11389521640092,
+      "avgDmg": 1513,
       "topSpg": {
         "name": "M53/M55",
         "tier": 9,
@@ -1036,8 +1036,8 @@
       "id": 501893996,
       "name": "mateusz_duster_hunter",
       "role_i18n": "Szer.",
-      "battles": 12509,
-      "winrate": 56.2315133104165,
+      "battles": 12511,
+      "winrate": 56.230517144912476,
       "avgDmg": 1466,
       "topSpg": {
         "name": "Obj. 261",
@@ -1348,13 +1348,13 @@
       "id": 580224482,
       "name": "Marcelsiq",
       "role_i18n": "Szer.",
-      "battles": 270,
-      "winrate": 44.074074074074076,
+      "battles": 272,
+      "winrate": 44.48529411764706,
       "avgDmg": 873,
       "topSpg": {
         "name": "212A",
         "tier": 9,
-        "battles": 90
+        "battles": 92
       }
     },
     {
