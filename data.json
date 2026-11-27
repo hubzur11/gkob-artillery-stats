@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T06:31:12.793Z",
+  "lastUpdated": "2026-11-27T17:12:14.435Z",
   "dailyDate": "2026-11-27",
   "monthlyDate": "2026-11",
   "daily": {
@@ -227,13 +227,13 @@
       "id": 506685964,
       "name": "patijass",
       "role_i18n": "Oficer bojowy",
-      "battles": 3194,
-      "winrate": 47.74577332498435,
+      "battles": 3197,
+      "winrate": 47.73224898342196,
       "avgDmg": 748,
       "topSpg": {
         "name": "Obj. 261",
         "tier": 10,
-        "battles": 317
+        "battles": 320
       }
     },
     {
